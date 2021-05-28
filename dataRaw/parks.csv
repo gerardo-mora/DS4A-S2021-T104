@@ -1,0 +1,480 @@
+﻿OBJECTID,Area_Acres,Park_ID,CD_Real,Address,Region,Name,Park_Class,CD_NEW,TOOLTIP,ACRES
+1,8.4333635,512,03,23751 Ingomar St,V,Lazy J Ranch Park,N,12,Name: Lazy J Ranch Park\nLocation: 23751 Ingomar St,8.4333635
+2,1.38737377,883,15,Adjacent to Angels Gate Park at 3400 Gaffey Street,P,Lookout Point Park,N,15,Name: Lookout Point Park\nLocation: Adjacent to Angels Gate Park at 3400 Gaffey Street,1.38737377
+3,3.17386107,320,15,1464 E 109th Street,P,109th Street Recreation Center,N,15,Name: 109th Street Recreation Center\nLocation: 1464 E 109th Street,3.17386107
+4,0.1548711,366,08,4726 8th Avenue,P,Angeles Mesa Park,N,8,Name: Angeles Mesa Park\nLocation: 4726 8th Avenue,0.1548711
+5,0.96072542,213,09,4800 S. Hoover St,P,Julian C. Dixon Park,N,9,Name: Julian C. Dixon Park\nLocation: 4800 S. Hoover St,0.96072542
+6,0.34030051,851,14,624 E. 6th Street,M,6th & Gladys Street Park,N,14,Name: 6th & Gladys Street Park\nLocation: 624 E. 6th Street,0.34030051
+7,16.45926122,383,08,8800 S Hoover Street,P,Algin Sutton Recreation Center,C,8,Name: Algin Sutton Recreation Center\nLocation: 8800 S Hoover Street,16.45926122
+8,60.4493581,751,12,18041 Rinaldi St,V,Aliso Canyon Park,R,12,Name: Aliso Canyon Park\nLocation: 18041 Rinaldi St,60.4493581
+9,0.04295563,852,14,1304 Pleasant Avenue,M,Aliso Triangle,N,14,Name: Aliso Triangle\nLocation: 1304 Pleasant Avenue,0.04295563
+10,6.65413078,500,03,22102 Alizondo Dr,V,Alizondo Drive Park,N,3,Name: Alizondo Drive Park\nLocation: 22102 Alizondo Dr,6.65413078
+11,1.93660659,700,01,817 Yale St.,M,Alpine Recreation Center,N,1,Name: Alpine Recreation Center\nLocation: 817 Yale St.,1.93660659
+12,0.90997057,701,01,1342 South Alvarado Terrace,M,Alvarado Terrace Park,N,1,Name: Alvarado Terrace Park\nLocation: 1342 South Alvarado Terrace,0.90997057
+13,1.61883222,317,15,828 S. Mesa St.,P,Anderson Memorial Senior Citizen Center,N,15,Name: Anderson Memorial Senior Citizen Center\nLocation: 828 S. Mesa St.,1.61883222
+14,2.19884341,550,07,10940 N Sepulveda Blvd,V,Andres Pico Adobe,N,7,Name: Andres Pico Adobe\nLocation: 10940 N Sepulveda Blvd,2.19884341
+15,1.43585094,110,11,15920 Asilomar Blvd,W,Palisades-Asilomar Park,N,11,Name: Palisades-Asilomar Park\nLocation: 15920 Asilomar Blvd,1.43585094
+16,10.74680555,166,15,1300 Dodson Ave.,P,Averill Park,C,15,Name: Averill Park\nLocation: 1300 Dodson Ave.,10.74680555
+17,152.65598594,806,06,16821 Burbank Blvd,V,Balboa Golf Course,R,6,Name: Balboa Golf Course\nLocation: 16821 Burbank Blvd,152.65598594
+18,10.86787423,167,10,5401 Highlight Place,W,Baldwin Hills Recreation Center,C,10,Name: Baldwin Hills Recreation Center\nLocation: 5401 Highlight Place,10.86787423
+19,21.09132548,313,15,1331 Eubank Ave.,P,Banning Park,C,15,Name: Banning Park\nLocation: 1331 Eubank Ave.,21.09132548
+20,14.59294107,226,13,4800 Hollywood Blvd,M,Barnsdall Park,C,13,Name: Barnsdall Park\nLocation: 4800 Hollywood Blvd,14.59294107
+21,18.64279132,108,11,333 S Barrington Ave,W,Barrington Recreation Center,C,11,Name: Barrington Recreation Center\nLocation: 333 S Barrington Ave,18.64279132
+22,122.78202572,501,03,24544 Bell Canyon Rd,V,Bell Canyon Park,R,12,Name: Bell Canyon Park\nLocation: 24544 Bell Canyon Rd,122.78202572
+23,9.10690806,168,13,826 Lucille Ave,M,Bellevue Recreation Center,N,13,Name: Bellevue Recreation Center\nLocation: 826 Lucille Ave,9.10690806
+24,85.73617504,650,05,2448 N Angelo Dr,W,Beverly Glen Park,R,5,Name: Beverly Glen Park\nLocation: 2448 N Angelo Dr,85.73617504
+25,0.6958894,800,06,14740 W. Blythe St,V,Andres and Maria Cardenas Recreation Center,N,6,Name: Andres and Maria Cardenas Recreation Center\nLocation: 14740 W. Blythe St,0.6958894
+26,17.71013308,551,07,15174 San Fernando Mission Rd,V,Brand Park,C,7,Name: Brand Park\nLocation: 15174 San Fernando Mission Rd,17.71013308
+27,13.37632046,801,06,13310 Branford St,V,Branford Park,C,6,Name: Branford Park\nLocation: 13310 Branford St,13.37632046
+28,10.75279848,170,05,461 Almaden Ct,W,Briarwood Park,C,5,Name: Briarwood Park\nLocation: 461 Almaden Ct,10.75279848
+29,0.78742723,879,14,4301 Via Marisol,M,Budd Weiner Park,N,14,Name: Budd Weiner Park\nLocation: 4301 Via Marisol,0.78742723
+30,1.56334578,290,04,11480 Tiara St,V,Tiara Street Site,N,2,Name: Tiara Street Site\nLocation: 11480 Tiara St,1.56334578
+31,0.73423859,280,04,3919 Lankershim Blvd,V,Campo De Cahuenga,N,2,Name: Campo De Cahuenga\nLocation: 3919 Lankershim Blvd,0.73423859
+32,0.13093986,140,11,401 Linnie Canal Wk,W,Canal Park,N,11,Name: Canal Park\nLocation: 401 Linnie Canal Wk,0.13093986
+33,0.77476767,504,03,7326 Jordan Ave,V,Canoga Park Senior Citizen Center,N,3,Name: Canoga Park Senior Citizen Center\nLocation: 7326 Jordan Ave,0.77476767
+34,23.80027163,552,07,15035 Crestknoll Dr,V,Carey Ranch Park,C,7,Name: Carey Ranch Park\nLocation: 15035 Crestknoll Dr,23.80027163
+35,3.08608076,506,03,24220 1/2 Clarington Dr,V,Castle Peak Park,N,12,Name: Castle Peak Park\nLocation: 24220 1/2 Clarington Dr,3.08608076
+36,0.18970812,209,09,4222 Central Ave,P,Central Avenue Jazz Park,N,9,Name: Central Avenue Jazz Park\nLocation: 4222 Central Ave,0.18970812
+37,1.44994597,211,09,1357 E 22nd St,P,Central Recreation Center,N,9,Name: Central Recreation Center\nLocation: 1357 E 22nd St,1.44994597
+38,28.36439908,277,04,3900 Chevy Chase Dr,G,Griffith Park Central Service Yard,C,13,Name: Griffith Park Central Service Yard\nLocation: 3900 Chevy Chase Dr,28.36439908
+39,5.96552295,755,12,22525 Chase St,V,Chase Park,N,12,Name: Chase Park\nLocation: 22525 Chase St,5.96552295
+40,24.14636004,756,12,22300 Chatsworth St,V,Chatsworth Park North,C,12,Name: Chatsworth Park North\nLocation: 22300 Chatsworth St,24.14636004
+41,1.54261219,758,12,22360 Devonshire St,V,Minnie Hill Palmer House / Homestead Acre,N,12,Name: Minnie Hill Palmer House / Homestead Acre\nLocation: 22360 Devonshire St,1.54261219
+42,73.07320535,757,12,22360 Devonshire St,V,Chatsworth Park South,R,12,Name: Chatsworth Park South\nLocation: 22360 Devonshire St,73.07320535
+43,1.89168171,367,08,1950 W 54th Street,P,Chesterfield Square Park,N,8,Name: Chesterfield Square Park\nLocation: 1950 W 54th Street,1.89168171
+44,2.4370927,228,13,4165 Chevy Chase Dr,M,Chevy Chase Park,N,13,Name: Chevy Chase Park\nLocation: 4165 Chevy Chase Dr,2.4370927
+45,0.17372971,368,08,76th at 5th Avenue,P,Circle Park (5th Ave.),N,8,Name: Circle Park (5th Ave.)\nLocation: 76th at 5th Avenue,0.17372971
+46,0.17161064,369,08,1975 W 76th Street,P,Circle Park (Gramercy),N,8,Name: Circle Park (Gramercy)\nLocation: 1975 W 76th Street,0.17161064
+47,1.7069232,212,09,200 N Spring St,M,City Hall Park,N,14,Name: City Hall Park\nLocation: 200 N Spring St,1.7069232
+48,0.3975994,255,10,1762 S La Cienega Blvd,W,Claude Pepper Senior Citizen Center,N,10,Name: Claude Pepper Senior Citizen Center\nLocation: 1762 S La Cienega Blvd,0.3975994
+49,0.92004715,858,14,4800 Cleland Avenue,M,Cleland Avenue Bicentennial Park,N,1,Name: Cleland Avenue Bicentennial Park\nLocation: 4800 Cleland Avenue,0.92004715
+50,0.30143418,652,05,2890 Club Dr,W,Club Circle Park,N,5,Name: Club Circle Park\nLocation: 2890 Club Dr,0.30143418
+51,1.99695063,508,03,7449 Melba Ave.,V,Cohasset-Melba Park,N,12,Name: Cohasset-Melba Park\nLocation: 7449 Melba Ave.,1.99695063
+52,41.15682768,203,02,12601 Mulholland Dr,V,Coldwater Canyon Park,C,2,Name: Coldwater Canyon Park\nLocation: 12601 Mulholland Dr,41.15682768
+53,3.45629972,870,14,3141 E Olympic Blvd,M,Hostetter Park,N,14,Name: Hostetter Park\nLocation: 3141 E Olympic Blvd,3.45629972
+54,15.77999948,106,11,1000 Hanley Ave,W,Crestwood Hills Park,C,11,Name: Crestwood Hills Park\nLocation: 1000 Hanley Ave,15.77999948
+55,3.26777211,145,11,5070 Slauson Ave,W,Culver-Slauson Park,N,11,Name: Culver-Slauson Park\nLocation: 5070 Slauson Ave,3.26777211
+56,0.08803957,371,08,1287 W 38th Place,P,Rolland Curtis Park,N,8,Name: Rolland Curtis Park\nLocation: 1287 W 38th Place,0.08803957
+57,3.48924233,703,01,2630 Pepper Avenue,M,Cypress Recreation Center,N,1,Name: Cypress Recreation Center\nLocation: 2630 Pepper Avenue,3.48924233
+58,3.58801856,309,15,845 W. 12th St.,P,Ralph C. Daniels Field Sports Center,N,15,Name: Ralph C. Daniels Field Sports Center\nLocation: 845 W. 12th St.,3.58801856
+59,1.37268939,279,04,1350 N Cherokee Ave,M,De Longpre Park,N,4,Name: De Longpre Park\nLocation: 1350 N Cherokee Ave,1.37268939
+60,0.61006784,653,05,314 Beverly Glen Blvd,W,De Neve Square Park,N,5,Name: De Neve Square Park\nLocation: 314 Beverly Glen Blvd,0.61006784
+61,9.11732002,171,12,17141 Nordhoff St,V,Dearborn Park,N,12,Name: Dearborn Park\nLocation: 17141 Nordhoff St,9.11732002
+62,1.64487345,802,06,10145 Arminta St,V,De Garmo Park,N,2,Name: De Garmo Park\nLocation: 10145 Arminta St,1.64487345
+63,10.99409494,147,11,6660 Esplanade Pl,W,Del Rey Lagoon,C,11,Name: Del Rey Lagoon\nLocation: 6660 Esplanade Pl,10.99409494
+64,4.45374918,803,06,15100 Erwin St,V,Delano Park,N,6,Name: Delano Park\nLocation: 15100 Erwin St,4.45374918
+65,2.8108007,372,08,1550 W 35th Place,P,Denker Recreation Center,N,8,Name: Denker Recreation Center\nLocation: 1550 W 35th Place,2.8108007
+66,1.8226343,553,06,14215 Devonshire Ave,V,Devonshire Arleta Park,N,6,Name: Devonshire Arleta Park\nLocation: 14215 Devonshire Ave,1.8226343
+67,4.83685715,554,07,10230 Woodman Ave,V,Devonwood Park,N,7,Name: Devonwood Park\nLocation: 10230 Woodman Ave,4.83685715
+68,0.4904149,247,13,7020 Franklin Ave,M,Dorothy J. and Benjamin B. Smith Park,N,13,Name: Dorothy J. and Benjamin B. Smith Park\nLocation: 7020 Franklin Ave,0.4904149
+69,4.52075053,172,01,1772 N Spring St,M,Downey Recreation Center,N,1,Name: Downey Recreation Center\nLocation: 1772 N Spring St,4.52075053
+70,0.32258199,706,01,3160 E Minnesota Street,M,East Los Angeles Park,N,1,Name: East Los Angeles Park\nLocation: 3160 E Minnesota Street,0.32258199
+71,0.12956924,306,15,"1300 ""O"" Street",P,East Wilmington Vest Pocket Park,N,15,"Name: East Wilmington Vest Pocket Park\nLocation: 1300 ""O"" Street",0.12956924
+72,28.40685029,249,13,751 Echo Park Blvd.,M,Echo Park,C,13,Name: Echo Park\nLocation: 751 Echo Park Blvd.,28.40685029
+73,6.30935269,759,12,11820 Reseda Blvd,V,Eddleston Park,N,12,Name: Eddleston Park\nLocation: 11820 Reseda Blvd,6.30935269
+74,61.28545119,502,03,6801 Sunset Ridge Ct,V,El Escorpion Park,R,12,Name: El Escorpion Park\nLocation: 6801 Sunset Ridge Ct,61.28545119
+75,1.29010268,278,04,3300 Cahuenga Blvd,V,El Paseo De Cahuenga Park,N,4,Name: El Paseo De Cahuenga Park\nLocation: 3300 Cahuenga Blvd,1.29010268
+76,3.07719955,865,14,4410 Garden Homes Avenue,M,El Sereno North Park,N,14,Name: El Sereno North Park\nLocation: 4410 Garden Homes Avenue,3.07719955
+77,13.93500943,173,14,4721 Klamath Street,M,El Sereno Recreation Center,C,14,Name: El Sereno Recreation Center\nLocation: 4721 Klamath Street,13.93500943
+78,0.90914951,866,14,4818 Klamath Place,M,El Sereno Senior Citizen Center,N,14,Name: El Sereno Senior Citizen Center\nLocation: 4818 Klamath Place,0.90914951
+79,1.99159156,230,13,1811 Ripple St,M,Elysian Valley Recreation Center,N,13,Name: Elysian Valley Recreation Center\nLocation: 1811 Ripple St,1.99159156
+80,0.92633121,158,05,4935 Balboa Blvd,V,Encino Community Center,N,5,Name: Encino Community Center\nLocation: 4935 Balboa Blvd,0.92633121
+81,5.26510503,157,05,16953 Ventura Blvd,V,Encino Park,N,5,Name: Encino Park\nLocation: 16953 Ventura Blvd,5.26510503
+82,0.53271106,714,01,1010 Everett Street,M,Everett Park,N,1,Name: Everett Park\nLocation: 1010 Everett Street,0.53271106
+83,6.6563445,867,14,2839 E 4th Street,M,Evergreen Recreation Center,N,14,Name: Evergreen Recreation Center\nLocation: 2839 E 4th Street,6.6563445
+84,10.39269121,222,08,701 State Dr.,P,Exposition Park Rose Garden,C,9,Name: Exposition Park Rose Garden\nLocation: 701 State Dr.,10.39269121
+85,0.37881526,655,05,7929 Melrose Ave,M,Fairfax Senior Citizen Center,N,5,Name: Fairfax Senior Citizen Center\nLocation: 7929 Melrose Ave,0.37881526
+86,1.16124866,344,02,9521 Tujunga Canyon Blvd,V,Fehlhaber-Houk Park,N,7,Name: Fehlhaber-Houk Park\nLocation: 9521 Tujunga Canyon Blvd,1.16124866
+87,4.32347172,119,11,11338 Santa Monica Blvd,W,Felicia Mahood Multipurpose Center,N,11,Name: Felicia Mahood Multipurpose Center\nLocation: 11338 Santa Monica Blvd,4.32347172
+88,9.25842388,174,06,8851 Laurel Canyon Blvd,V,Fernangeles Recreation Center,N,6,Name: Fernangeles Recreation Center\nLocation: 8851 Laurel Canyon Blvd,9.25842388
+89,2.90282516,220,09,4700 Honduras St,P,Fred Roberts Recreation Center,N,9,Name: Fred Roberts Recreation Center\nLocation: 4700 Honduras St,2.90282516
+90,0.63827135,214,09,7630 Towne Ave,P,Fremont High School Pool,N,9,Name: Fremont High School Pool\nLocation: 7630 Towne Ave,0.63827135
+91,0.75091686,250,10,2330 S Genesee Avenue,W,Genesee Avenue Park,N,10,Name: Genesee Avenue Park\nLocation: 2330 S Genesee Avenue,0.75091686
+92,14.62057944,217,09,429 E 42nd Place,P,Gilbert W. Lindsay Community Center,C,9,Name: Gilbert W. Lindsay Community Center\nLocation: 429 E 42nd Place,14.62057944
+93,12.6876408,231,13,3650 Verdugo Rd,M,Glassell Park,C,1,Name: Glassell Park\nLocation: 3650 Verdugo Rd,12.6876408
+94,4.82043253,142,11,4601 Alla Rd,W,Glen Alla Park,N,11,Name: Glen Alla Park\nLocation: 4601 Alla Rd,4.82043253
+95,0.29159272,232,13,2932 Glenhurst Ave,M,Glenhurst Park,N,13,Name: Glenhurst Park\nLocation: 2932 Glenhurst Ave,0.29159272
+96,17.75559734,760,12,16730 Chatsworth St,V,Granada Hills Park,C,12,Name: Granada Hills Park\nLocation: 16730 Chatsworth St,17.75559734
+97,0.11946406,330,15,10726 Grape St.,P,Grape Street Pocket Park,N,15,Name: Grape Street Pocket Park\nLocation: 10726 Grape St.,0.11946406
+98,0.59602106,715,01,3711 N Figueroa Street,M,Greayer's Oak Park,N,1,Name: Greayer's Oak Park\nLocation: 3711 N Figueroa Street,0.59602106
+99,7.63554657,176,09,431 E 89th St,P,Green Meadows Recreation Center,N,9,Name: Green Meadows Recreation Center\nLocation: 431 E 89th St,7.63554657
+100,1.22525701,283,04,5105 N Zoo Dr,G,Griffith Park Dog Park,N,4,Name: Griffith Park Dog Park\nLocation: 5105 N Zoo Dr,1.22525701
+101,11.06863222,177,15,24901 Frampton Ave.,P,Harbor City Park,C,15,Name: Harbor City Park\nLocation: 24901 Frampton Ave.,11.06863222
+102,1.60273414,252,10,890 S Lucerne Avenue,M,Harold A. Henry Park,N,4,Name: Harold A. Henry Park\nLocation: 890 S Lucerne Avenue,1.60273414
+103,0.06597303,347,02,6830 N Woodman Avenue,V,Hartland Mini-Park,N,2,Name: Hartland Mini-Park\nLocation: 6830 N Woodman Avenue,0.06597303
+104,12.87524427,384,08,1535 W 62nd Street,P,Jackie Tatum/Harvard Recreation Center,C,8,Name: Jackie Tatum/Harvard Recreation Center\nLocation: 1535 W 62nd Street,12.87524427
+105,24.99132843,868,14,2230 Norfolk Street,M,Hazard Park,C,14,Name: Hazard Park\nLocation: 2230 Norfolk Street,24.99132843
+106,3.81234365,718,01,6152 N Figueroa Street,M,Highland Park Senior Citizen Center,N,14,Name: Highland Park Senior Citizen Center\nLocation: 6152 N Figueroa Street,3.81234365
+107,0.48978951,298,04,HILLHURST AVE. BTWN. LOS FELIZ BLVD. & VERMONT AVE.,G,Hillhurst Parkway,N,4,Name: Hillhurst Parkway\nLocation: HILLHURST AVE. BTWN. LOS FELIZ BLVD. & VERMONT AVE.,0.48978951
+108,18.30269337,869,14,415 S St Louis Street,M,Hollenbeck Park,C,14,Name: Hollenbeck Park\nLocation: 415 S St Louis Street,18.30269337
+109,8.51874321,179,05,601 Club View Dr,W,Holmby Park,N,5,Name: Holmby Park\nLocation: 601 Club View Dr,8.51874321
+110,0.20978881,215,09,817 W Gage Ave,P,Hoover-Gage Park,N,9,Name: Hoover-Gage Park\nLocation: 817 W Gage Ave,0.20978881
+111,2.47854181,719,01,1010 W 25th Street,M,Hoover Recreation Center,N,1,Name: Hoover Recreation Center\nLocation: 1010 W 25th Street,2.47854181
+112,0.56849143,720,01,843 S Bonnie Brae Street,M,Hope and Peace Park,N,1,Name: Hope and Peace Park\nLocation: 843 S Bonnie Brae Street,0.56849143
+113,3.66007985,345,02,7747 Foothill Blvd,V,Howard Finn Park,N,7,Name: Howard Finn Park\nLocation: 7747 Foothill Blvd,3.66007985
+114,9.98868776,180,07,12560 Fllmore St.,V,Hubert H. Humphrey Memorial Park,N,7,Name: Hubert H. Humphrey Memorial Park\nLocation: 12560 Fllmore St.,9.98868776
+115,2.36047264,340,15,2250 E 114th Street,P,Imperial Courts Recreation Center,N,15,Name: Imperial Courts Recreation Center\nLocation: 2250 E 114th Street,2.36047264
+116,0.31498485,663,05,2599 Beverwill Dr,W,Irving Schacter Park,N,5,Name: Irving Schacter Park\nLocation: 2599 Beverwill Dr,0.31498485
+117,1.59485426,769,12,7100 White Oak Ave,V,Jessie Owens Mini-Park,N,6,Name: Jessie Owens Mini-Park\nLocation: 7100 White Oak Ave,1.59485426
+118,17.62510152,251,10,4000 S La Brea Ave.,W,Jim Gilliam Recreation Center,C,10,Name: Jim Gilliam Recreation Center\nLocation: 4000 S La Brea Ave.,17.62510152
+119,3.82380895,516,03,7008 Desoto Ave,V,John Quimby Park,N,3,Name: John Quimby Park\nLocation: 7008 Desoto Ave,3.82380895
+120,3.16235324,339,15,9900 Grape St.,P,Jordan Downs Recreation Center,N,15,Name: Jordan Downs Recreation Center\nLocation: 9900 Grape St.,3.16235324
+121,1.63824349,234,13,3135 Drew St,M,Juntos Park,N,13,Name: Juntos Park\nLocation: 3135 Drew St,1.63824349
+122,3.46419492,558,07,11435 Kagel Canyon St,V,Kagel Canyon Park,N,7,Name: Kagel Canyon Park\nLocation: 11435 Kagel Canyon St,3.46419492
+123,0.09184962,348,02,6565 Greenbush Avenue,V,Kittridge Mini-Park,N,2,Name: Kittridge Mini-Park\nLocation: 6565 Greenbush Avenue,0.09184962
+124,69.10878545,204,03,25000 Kittridge St,V,Knapp Ranch Park,R,12,Name: Knapp Ranch Park\nLocation: 25000 Kittridge St,69.10878545
+125,2.50723435,297,04,4625 W Olympic Blvd,M,Los Angeles High Memorial Park,N,4,Name: Los Angeles High Memorial Park\nLocation: 4625 W Olympic Blvd,2.50723435
+126,4.63701728,721,01,421 N Avenue 19,G,L.A. Youth Athletic Club,N,1,Name: L.A. Youth Athletic Club\nLocation: 421 N Avenue 19,4.63701728
+127,2.41636491,268,04,3160 Canyon Dr,G,Lake Hollywood Park,N,4,Name: Lake Hollywood Park\nLocation: 3160 Canyon Dr,2.41636491
+128,1.5181554,235,13,227 N Lake St,M,Lake Street Park,N,13,Name: Lake Street Park\nLocation: 227 N Lake St,1.5181554
+129,9.81225099,182,02,11075 Foothill Blvd,V,Lake View Terrace Recreation Center,N,7,Name: Lake View Terrace Recreation Center\nLocation: 11075 Foothill Blvd,9.81225099
+130,19.19838054,511,03,21816 Lanark St,V,Lanark Recreation Center,C,3,Name: Lanark Recreation Center\nLocation: 21816 Lanark St,19.19838054
+131,0.08823167,872,14,E. 1st Street & Chicago Street,M,Lani Vest-Pocket Park,N,14,Name: Lani Vest-Pocket Park\nLocation: E. 1st Street & Chicago Street,0.08823167
+132,1.14470417,296,04,1820 N Las Palmas Ave,M,Las Palmas Senior Citizen Center,N,13,Name: Las Palmas Senior Citizen Center\nLocation: 1820 N Las Palmas Ave,1.14470417
+133,1.79521991,237,13,1901 Waterloo St,M,Tommy Lasorda's Field of Dreams,N,13,Name: Tommy Lasorda's Field of Dreams\nLocation: 1901 Waterloo St,1.79521991
+134,0.19285073,216,09,5308 Latham St,P,Latham Park,N,9,Name: Latham Park\nLocation: 5308 Latham St,0.19285073
+135,23.4447436,993,05,8260 Mulholland Dr,V,Laurel Canyon Park,C,4,Name: Laurel Canyon Park\nLocation: 8260 Mulholland Dr,23.4447436
+136,1.01507326,376,08,4395 Leimert Blvd,W,Leimert Plaza,N,10,Name: Leimert Plaza\nLocation: 4395 Leimert Blvd,1.01507326
+137,15.76194244,338,15,863 S. Herbert Avenue,P,Leland Park,C,15,Name: Leland Park\nLocation: 863 S. Herbert Avenue,15.76194244
+138,3.87145743,239,13,4959 Lemon Grove Ave,M,Lemon Grove Recreation Center,N,13,Name: Lemon Grove Recreation Center\nLocation: 4959 Lemon Grove Ave,3.87145743
+139,0.17198669,240,13,5523 Lexington Ave,M,Lexington Avenue Pocket Park,N,13,Name: Lexington Avenue Pocket Park\nLocation: 5523 Lexington Ave,0.17198669
+140,24.51476829,160,05,5101 Libbit Ave,V,Libbit Park,C,5,Name: Libbit Park\nLocation: 5101 Libbit Ave,24.51476829
+141,2.83140556,724,01,1253 Lilac Ter.,M,Lilac Terrace Park,N,13,Name: Lilac Terrace Park\nLocation: 1253 Lilac Ter.,2.83140556
+142,92.56578803,762,12,19585 Rinaldi St,V,Limekiln Canyon Park,R,12,Name: Limekiln Canyon Park\nLocation: 19585 Rinaldi St,92.56578803
+143,2.87720446,725,01,2303 Workman Street,M,Lincoln Heights Recreation Center,N,1,Name: Lincoln Heights Recreation Center\nLocation: 2303 Workman Street,2.87720446
+144,42.81087247,205,01,3501 Valley Blvd,M,Lincoln Park,C,1,Name: Lincoln Park\nLocation: 3501 Valley Blvd,42.81087247
+145,0.22882855,377,08,10420 S. Vermont Ave.,P,Little Green Acres Park,N,8,Name: Little Green Acres Park\nLocation: 10420 S. Vermont Ave.,0.22882855
+146,1.14379995,356,02,10110 Commerce Ave,V,Little Landers Park,N,7,Name: Little Landers Park\nLocation: 10110 Commerce Ave,1.14379995
+147,2.41578742,378,08,2717 Halldale Avenue,P,Loren Miller Recreation Center,N,8,Name: Loren Miller Recreation Center\nLocation: 2717 Halldale Avenue,2.41578742
+148,11.83101237,291,04,3207 Los Feliz Blvd,M,Los Feliz Golf Course,C,13,Name: Los Feliz Golf Course\nLocation: 3207 Los Feliz Blvd,11.83101237
+149,6.48060678,763,12,7140 Louise Ave,V,Louise Park,N,6,Name: Louise Park\nLocation: 7140 Louise Ave,6.48060678
+150,1.75015365,726,01,200 E Avenue 43,M,Charles F. Lummis Home,N,1,Name: Charles F. Lummis Home\nLocation: 200 E Avenue 43,1.75015365
+151,2.2300543,503,03,23936 Highlander Ave,V,Mae Boyar Recreation Center,N,12,Name: Mae Boyar Recreation Center\nLocation: 23936 Highlander Ave,2.2300543
+152,4.81528091,144,11,4901 Marionwood Dr,W,Mar Vista Gardens Recreation Center,N,11,Name: Mar Vista Gardens Recreation Center\nLocation: 4901 Marionwood Dr,4.81528091
+153,18.50628241,122,11,11430 Woodbine Ave,W,Mar Vista Recreation Center,C,11,Name: Mar Vista Recreation Center\nLocation: 11430 Woodbine Ave,18.50628241
+154,0.28774922,804,06,15262 Marson St,V,Marson Park,N,6,Name: Marson Park\nLocation: 15262 Marson St,0.28774922
+155,13.51531786,311,15,1920 Cumbre Drive,P,Martin J. Bogdanovich Recreation Center,C,15,Name: Martin J. Bogdanovich Recreation Center\nLocation: 1920 Cumbre Drive,13.51531786
+156,0.17134987,253,10,Intersection of Mascot Street & Pickford Street,M,Mascot Park,N,10,Name: Mascot Park\nLocation: Intersection of Mascot Street & Pickford Street,0.17134987
+157,17.06931083,764,12,10500 Mason Ave,V,Mason Park,C,12,Name: Mason Park\nLocation: 10500 Mason Ave,17.06931083
+158,2.66282518,559,07,9540 Van Nuys Blvd.,V,Mid-Valley Senior Citizen Center (Site),N,6,Name: Mid-Valley Senior Citizen Center (Site)\nLocation: 9540 Van Nuys Blvd.,2.66282518
+159,3.21706107,342,02,12061 Moorpark St,V,Moorpark Park,N,2,Name: Moorpark Park\nLocation: 12061 Moorpark St,3.21706107
+160,3.40604552,379,08,830 W 70th Street,P,Mount Carmel Recreation Center,N,8,Name: Mount Carmel Recreation Center\nLocation: 830 W 70th Street,3.40604552
+161,29.86877092,727,01,2230 W 6th Street,M,MacArthur Park,C,1,Name: MacArthur Park\nLocation: 2230 W 6th Street,29.86877092
+162,9.4989901,185,08,4800 S. La Brea Ave.,W,Norman O. Houston Park,N,8,Name: Norman O. Houston Park\nLocation: 4800 S. La Brea Ave.,9.4989901
+163,7.97765843,334,15,22400 Halldale Avenue,P,Normandale Recreation Center,N,15,Name: Normandale Recreation Center\nLocation: 22400 Halldale Avenue,7.97765843
+164,3.27153751,730,01,1550 S Normandie Avenue,M,Normandie Recreation Center,N,1,Name: Normandie Recreation Center\nLocation: 1550 S Normandie Avenue,3.27153751
+165,5.36237217,267,04,3900 Chevy Chase Dr,G,North Atwater Park,N,13,Name: North Atwater Park\nLocation: 3900 Chevy Chase Dr,5.36237217
+166,3.89463018,561,07,8756 Parthenia Pl,V,North Hills Community Park,N,6,Name: North Hills Community Park\nLocation: 8756 Parthenia Pl,3.89463018
+167,55.59982202,295,04,11430 Chandler Blvd,V,North Hollywood Park,R,2,Name: North Hollywood Park\nLocation: 11430 Chandler Blvd,55.59982202
+168,24.01765254,766,12,10058 Reseda Blvd,V,Northridge Recreation Center,C,12,Name: Northridge Recreation Center\nLocation: 10058 Reseda Blvd,24.01765254
+169,695.71086812,768,12,17300 Sesnon Blvd,V,O'Melveny Park,R,12,Name: O'Melveny Park\nLocation: 17300 Sesnon Blvd,695.71086812
+170,3.63266539,127,11,767 California St,W,Oakwood Recreation Center,N,11,Name: Oakwood Recreation Center\nLocation: 767 California St,3.63266539
+171,0.22007678,117,11,1500 S Bundy Dr,W,Bundy Triangle,N,11,Name: Bundy Triangle\nLocation: 1500 S Bundy Dr,0.22007678
+172,24.09578635,514,03,23600 Roscoe Blvd,V,Orcutt Ranch Horticultural Center,C,12,Name: Orcutt Ranch Horticultural Center\nLocation: 23600 Roscoe Blvd,24.09578635
+173,8.23074694,352,02,11101 Oro Vista Ave,V,Oro Vista Park,N,7,Name: Oro Vista Park\nLocation: 11101 Oro Vista Ave,8.23074694
+174,6.80193634,223,07,10943 Herrick Ave,V,David M. Gonzales Recreation Center,N,7,Name: David M. Gonzales Recreation Center\nLocation: 10943 Herrick Ave,6.80193634
+175,2.07463633,560,07,11300 Glenoaks Blvd,V,North East Valley Multipurpose Center,N,7,Name: North East Valley Multipurpose Center\nLocation: 11300 Glenoaks Blvd,2.07463633
+176,113.64648036,770,12,12100 Tampa Ave,V,Palisades Park (Porter Ranch),R,12,Name: Palisades Park (Porter Ranch)\nLocation: 12100 Tampa Ave,113.64648036
+177,17.54244037,115,11,851 Alma Real Dr.,W,Palisades Recreation Center,C,11,Name: Palisades Recreation Center\nLocation: 851 Alma Real Dr.,17.54244037
+178,4.80854645,658,05,2950 Overland Ave,W,Palms Recreation Center,N,5,Name: Palms Recreation Center\nLocation: 2950 Overland Ave,4.80854645
+179,32.17782652,294,04,7600 Beverly Blvd,M,Pan Pacific Park,C,4,Name: Pan Pacific Park\nLocation: 7600 Beverly Blvd,32.17782652
+180,6.00123156,562,07,8600 Hazeltine Ave,V,Panorama City Recreation Center,N,6,Name: Panorama City Recreation Center\nLocation: 8600 Hazeltine Ave,6.00123156
+181,1.4204227,771,12,21444 Parthenia St,V,Parthenia Park,N,3,Name: Parthenia Park\nLocation: 21444 Parthenia St,1.4204227
+182,25.76734734,567,07,10731 Laurel Canyon Blvd,V,Ritchie Valens Park,C,7,Name: Ritchie Valens Park\nLocation: 10731 Laurel Canyon Blvd,25.76734734
+183,4.27987849,874,14,127 South Pecan Street,M,Pecan Recreation Center,N,14,Name: Pecan Recreation Center\nLocation: 127 South Pecan Street,4.27987849
+184,52.70278827,124,11,1233 Rose Ave.,W,Penmar Golf Course,R,11,Name: Penmar Golf Course\nLocation: 1233 Rose Ave.,52.70278827
+185,12.00596469,125,11,1341 Lake St,W,Penmar Recreation Center,C,11,Name: Penmar Recreation Center\nLocation: 1341 Lake St,12.00596469
+186,4.43695686,218,09,525 S Olive St,M,Pershing Square,N,14,Name: Pershing Square\nLocation: 525 S Olive St,4.43695686
+187,6.29257328,659,05,7341 Willoughby ave,M,Poinsettia Recreation Center,N,5,Name: Poinsettia Recreation Center\nLocation: 7341 Willoughby ave,6.29257328
+188,40.96190192,772,12,11000 Tampa Ave,V,Porter Ranch Park,C,12,Name: Porter Ranch Park\nLocation: 11000 Tampa Ave,40.96190192
+189,17.78056298,773,12,18799 Sesnon Blvd,V,Porter Ridge Park,C,12,Name: Porter Ridge Park\nLocation: 18799 Sesnon Blvd,17.78056298
+190,2.71237512,875,14,612 N Echandia Street,M,Prospect Park,N,14,Name: Prospect Park\nLocation: 612 N Echandia Street,2.71237512
+191,5.23177322,257,10,1240 West Blvd,M,Queen Anne Recreation Center,N,10,Name: Queen Anne Recreation Center\nLocation: 1240 West Blvd,5.23177322
+192,1.42656117,733,01,4580 N Figueroa Street,M,Ramona Hall Community Center,N,1,Name: Ramona Hall Community Center\nLocation: 4580 N Figueroa Street,1.42656117
+193,28.96806395,258,10,5001 Rodeo Road,W,Rancho Cienega Sports Complex,C,10,Name: Rancho Cienega Sports Complex\nLocation: 5001 Rodeo Road,28.96806395
+194,140.13672555,660,05,10460 Pico Blvd,W,Rancho Park Golf Course,R,5,Name: Rancho Park Golf Course\nLocation: 10460 Pico Blvd,140.13672555
+195,1.27656078,341,15,510 Leland Avenue,P,Rena Park,N,15,Name: Rena Park\nLocation: 510 Leland Avenue,1.27656078
+196,29.67840228,517,03,18411 Victory Blvd,V,Reseda Park,C,3,Name: Reseda Park\nLocation: 18411 Victory Blvd,29.67840228
+197,1.0300388,259,10,2803 Reynier Avenue,W,Reynier Park,N,10,Name: Reynier Park\nLocation: 2803 Reynier Avenue,1.0300388
+198,0.32141074,380,08,2700 S Budlong Avenue,P,Elinor and Don Richardson Family Park,N,8,Name: Elinor and Don Richardson Family Park\nLocation: 2700 S Budlong Avenue,0.32141074
+199,1.67678104,281,04,4900 Beverly Blvd.,M,Robert L. Burns Park,N,4,Name: Robert L. Burns Park\nLocation: 4900 Beverly Blvd.,1.67678104
+200,1.23557131,661,05,1641 Pruess Road,W,Robertson Recreation Center,N,5,Name: Robertson Recreation Center\nLocation: 1641 Pruess Road,1.23557131
+201,14.41415551,557,07,12467 Osborne St,V,Roger W. Jessup Park,C,7,Name: Roger W. Jessup Park\nLocation: 12467 Osborne St,14.41415551
+202,55.56478002,293,04,2650 N Vermont Ave,M,Roosevelt Golf Course,R,4,Name: Roosevelt Golf Course\nLocation: 2650 N Vermont Ave,55.56478002
+203,1.48650564,876,14,456 S Mathews Street,M,Roosevelt High School Pool,N,14,Name: Roosevelt High School Pool\nLocation: 456 S Mathews Street,1.48650564
+204,44.34813641,518,03,24116 De Quincy Ct,V,Roscoe-Valley Circle Park,C,12,Name: Roscoe-Valley Circle Park\nLocation: 24116 De Quincy Ct,44.34813641
+205,2.26431718,1004,14,4530 Mercury Ave.,M,Rose Hill Recreation Center,N,14,Name: Rose Hill Recreation Center\nLocation: 4530 Mercury Ave.,2.26431718
+206,10.5481857,190,15,840 W. 149th St.,P,Rosecrans Recreation Center,C,15,Name: Rosecrans Recreation Center\nLocation: 840 W. 149th St.,10.5481857
+207,11.3420269,600,09,1501 E 41 St,P,Ross Snyder Recreation Center,C,9,Name: Ross Snyder Recreation Center\nLocation: 1501 E 41 St,11.3420269
+208,5.93070647,191,03,20200 Runnymede St.,V,Runnymede Park,N,3,Name: Runnymede Park\nLocation: 20200 Runnymede St.,5.93070647
+209,136.76443353,284,04,2000 N Fuller Ave,G,Runyon Canyon Park,R,4,Name: Runyon Canyon Park\nLocation: 2000 N Fuller Ave,136.76443353
+210,44.69131991,105,11,"SW of Sullivan Fire Rd; no other address or HSENO available",W,Rustic Canyon Park,C,11,"Name: Rustic Canyon Park\nLocation: SW of Sullivan Fire Rd; no other address or HSENO available",44.69131991
+211,8.94995329,107,11,601 Latimer Rd,W,Rustic Canyon Recreation Center,N,11,Name: Rustic Canyon Recreation Center\nLocation: 601 Latimer Rd,8.94995329
+212,8.57621581,382,08,8701 St. Andrews Pl.,P,Saint Andrews Recreation Center,N,8,Name: Saint Andrews Recreation Center\nLocation: 8701 St. Andrews Pl.,8.57621581
+213,0.89801271,735,01,20 S St. James Park,M,Saint James Park,N,1,Name: Saint James Park\nLocation: 20 S St. James Park,0.89801271
+214,3.50665301,329,15,700 S Beacon Street,P,San Pedro Plaza Park,N,15,Name: San Pedro Plaza Park\nLocation: 700 S Beacon Street,3.50665301
+215,31.45134196,100,11,17500 Mulholland Dr,W,San Vicente Mountain Park,C,11,Name: San Vicente Mountain Park\nLocation: 17500 Mulholland Dr,31.45134196
+216,337.84219219,102,11,1100 Palisades Dr,W,Santa Ynez Canyon Park,R,11,Name: Santa Ynez Canyon Park\nLocation: 1100 Palisades Dr,337.84219219
+217,0.22382598,244,13,6567 Selma Ave,M,Selma Park,N,13,Name: Selma Park\nLocation: 6567 Selma Ave,0.22382598
+218,3.46636941,261,10,3250 San Marino Street,M,Seoul International Park,N,10,Name: Seoul International Park\nLocation: 3250 San Marino Street,3.46636941
+219,4.93963121,163,12,17550 Victory Blvd,V,Sepulveda Basin Dog Park,N,6,Name: Sepulveda Basin Dog Park\nLocation: 17550 Victory Blvd,4.93963121
+220,10.58718448,192,07,17017 Burbank Blvd,V,Sepulveda Recreation Center,C,6,Name: Sepulveda Recreation Center\nLocation: 17017 Burbank Blvd,10.58718448
+221,36.54078851,519,03,4800 Serrania Ave,V,Serrania Avenue Park,C,3,Name: Serrania Avenue Park\nLocation: 4800 Serrania Ave,36.54078851
+222,12.03447881,520,03,22633 Vanowen St,V,Shadow Ranch Park,C,12,Name: Shadow Ranch Park\nLocation: 22633 Vanowen St,12.03447881
+223,5.45388787,301,04,3191 W 4th St,M,Shatto Recreation Center,N,13,Name: Shatto Recreation Center\nLocation: 3191 W 4th St,5.45388787
+224,1.11524952,246,13,1850 W Silverlake Dr,M,Silverlake Dog Park,N,13,Name: Silverlake Dog Park\nLocation: 1850 W Silverlake Dr,1.11524952
+225,3.62840692,221,09,5306 S Compton Ave,P,James Slauson Recreation Center,N,9,Name: James Slauson Recreation Center\nLocation: 5306 S Compton Ave,3.62840692
+226,0.74118112,381,08,7020 S Figueroa Street,P,South Los Angeles Sports Activity Center,N,8,Name: South Los Angeles Sports Activity Center\nLocation: 7020 S Figueroa Street,0.74118112
+227,18.25018545,601,09,345 E 51st St,P,South Park Recreation Center,C,9,Name: South Park Recreation Center\nLocation: 345 E 51st St,18.25018545
+228,0.17229024,263,10,2301 W. 24th Street,M,South Seas House,N,10,Name: South Seas House\nLocation: 2301 W. 24th Street,0.17229024
+229,2.61704055,877,14,716 N State Street,M,State Street Recreation Center,N,14,Name: State Street Recreation Center\nLocation: 716 N State Street,2.61704055
+230,28.30875438,563,07,13877 Glenoaks Blvd,V,Stetson Ranch Park,C,7,Name: Stetson Ranch Park\nLocation: 13877 Glenoaks Blvd,28.30875438
+231,13.70909321,358,02,9901 Dronfield St,V,Stonehurst Recreation Center,C,7,Name: Stonehurst Recreation Center\nLocation: 9901 Dronfield St,13.70909321
+232,8.65607089,121,11,1835 Stoner Ave,W,Stoner Recreation Center,N,11,Name: Stoner Recreation Center\nLocation: 1835 Stoner Ave,8.65607089
+233,29.05620728,776,12,10870 Topanga Canyon Blvd,V,Stoney Point Park,C,12,Name: Stoney Point Park\nLocation: 10870 Topanga Canyon Blvd,29.05620728
+234,12.73530335,224,06,8041 Whitsett Ave,V,Strathern Park - North,C,2,Name: Strathern Park - North\nLocation: 8041 Whitsett Ave,12.73530335
+235,0.42687784,343,02,12505 Moorpark Street,V,Studio City Mini-Park,N,2,Name: Studio City Mini-Park\nLocation: 12505 Moorpark Street,0.42687784
+236,8.46400012,194,02,12505 Moorpark St,V,Studio City Recreation Center,N,2,Name: Studio City Recreation Center\nLocation: 12505 Moorpark St,8.46400012
+237,17.26066808,813,06,8133 Vineland Ave,V,Sun Valley Park,C,6,Name: Sun Valley Park\nLocation: 8133 Vineland Ave,17.26066808
+238,14.3219796,363,02,8651 Foothill Blvd,V,Sunland Park,C,7,Name: Sunland Park\nLocation: 8651 Foothill Blvd,14.3219796
+239,13.61600019,736,01,4702 N Figueroa Street,M,Sycamore Grove Park,C,1,Name: Sycamore Grove Park\nLocation: 4702 N Figueroa Street,13.61600019
+240,19.77623242,564,07,13109 Borden Ave,V,Sylmar Park,C,7,Name: Sylmar Park\nLocation: 13109 Borden Ave,19.77623242
+241,5.57224821,522,03,5655 Vanalden Ave,V,Tarzana Recreation Center,N,3,Name: Tarzana Recreation Center\nLocation: 5655 Vanalden Ave,5.57224821
+242,2.45490982,523,03,23367 Ingomar St,V,Taxco Trails Park,N,12,Name: Taxco Trails Park\nLocation: 23367 Ingomar St,2.45490982
+243,37.58957701,111,11,15900 Pacific Coast Hwy,W,Temescal Canyon Park,C,11,Name: Temescal Canyon Park\nLocation: 15900 Pacific Coast Hwy,37.58957701
+244,0.28702509,148,11,415 Culver Blvd,W,Titmouse Park,N,11,Name: Titmouse Park\nLocation: 415 Culver Blvd,0.28702509
+245,2.73926359,737,01,1725 Toberman Street,M,Toberman Recreation Center,N,1,Name: Toberman Recreation Center\nLocation: 1725 Toberman Street,2.73926359
+246,1.61128071,566,07,9122 Tobias Ave,V,Tobias Avenue Park,N,6,Name: Tobias Avenue Park\nLocation: 9122 Tobias Ave,1.61128071
+247,0.14948861,150,11,Trask Avenue and Waterview St,W,Trask Triangle Park,N,11,Name: Trask Triangle Park\nLocation: Trask Avenue and Waterview St,0.14948861
+248,0.09096021,135,11,652 Marr St,W,Triangle Park,N,11,Name: Triangle Park\nLocation: 652 Marr St,0.09096021
+249,2.06298466,604,09,2415 Trinity St,P,Trinity Recreation Center,N,9,Name: Trinity Recreation Center\nLocation: 2415 Trinity St,2.06298466
+250,0.06295977,738,01,8th Street & Valencia Street,M,Valencia Triangle,N,1,Name: Valencia Triangle\nLocation: 8th Street & Valencia Street,0.06295977
+251,77.64113661,360,02,12240 Archwood Street,V,Valley Plaza Park,R,2,Name: Valley Plaza Park\nLocation: 12240 Archwood Street,77.64113661
+252,7.81360616,375,08,5720 2nd Avenue,P,Van Ness Recreation Center,N,8,Name: Van Ness Recreation Center\nLocation: 5720 2nd Avenue,7.81360616
+253,65.17562787,357,02,14201 Huston St,V,Van Nuys - Sherman Oaks Park,R,4,Name: Van Nuys - Sherman Oaks Park\nLocation: 14201 Huston St,65.17562787
+254,1.3779326,814,06,6514 Sylmar Ave,V,Van Nuys Multipurpose Center,N,2,Name: Van Nuys Multipurpose Center\nLocation: 6514 Sylmar Ave,1.3779326
+255,3.89422407,815,06,14301 Vanowen Ave,V,Van Nuys Recreation Center,N,6,Name: Van Nuys Recreation Center\nLocation: 14301 Vanowen Ave,3.89422407
+256,10.88540621,778,12,8956 Vanalden Ave,V,Vanalden Park,C,12,Name: Vanalden Park\nLocation: 8956 Vanalden Ave,10.88540621
+257,160.75253296,138,11,2300 Ocean Front Wk,W,Venice Beach,R,11,Name: Venice Beach\nLocation: 2300 Ocean Front Wk,160.75253296
+258,1.47271284,141,11,2490 Walgrove Ave,W,Venice High School Pool,N,11,Name: Venice High School Pool\nLocation: 2490 Walgrove Ave,1.47271284
+259,0.7531548,364,02,10654 Irma Ave,V,Verdugo Hills Pool,N,7,Name: Verdugo Hills Pool\nLocation: 10654 Irma Ave,0.7531548
+260,3.0086956,603,09,1248 W 47th St,P,Vermont Square,N,9,Name: Vermont Square\nLocation: 1248 W 47th St,3.0086956
+261,6.48155308,350,02,11117 W Victory Blvd,V,Victory-Vineland Recreation Center,N,2,Name: Victory-Vineland Recreation Center\nLocation: 11117 W Victory Blvd,6.48155308
+262,10.06960343,195,12,11500 Viking Ave,V,Viking Park,C,12,Name: Viking Park\nLocation: 11500 Viking Ave,10.06960343
+263,0.92608651,264,10,2942 Vineyard Avenue,W,Vineyard Recreation Center,N,10,Name: Vineyard Recreation Center\nLocation: 2942 Vineyard Avenue,0.92608651
+264,0.51638822,241,13,464 N Madison Ave,M,Madison West Park,N,13,Name: Madison West Park\nLocation: 464 N Madison Ave,0.51638822
+265,0.84108473,152,11,8150 Vista Del Mar,W,Vista Del Mar Park,N,11,Name: Vista Del Mar Park\nLocation: 8150 Vista Del Mar,0.84108473
+266,15.30628426,524,03,5830 N. Topanga Canyon Blvd,V,Warner Ranch Park,C,3,Name: Warner Ranch Park\nLocation: 5830 N. Topanga Canyon Blvd,15.30628426
+267,47.58094658,288,04,1824 N Curson Ave,M,Wattles Garden Park,C,4,Name: Wattles Garden Park\nLocation: 1824 N Curson Ave,47.58094658
+268,1.29669046,327,15,1657 E. Century Blvd.,P,Watts Senior Citizen Center,N,15,Name: Watts Senior Citizen Center\nLocation: 1657 E. Century Blvd.,1.29669046
+269,10.21254867,196,04,10844 Acama St,V,Weddington Park North,C,2,Name: Weddington Park North\nLocation: 10844 Acama St,10.21254867
+270,14.48380305,287,04,10800 Valley Heart Dr,V,Weddington Park South,C,2,Name: Weddington Park South\nLocation: 10800 Valley Heart Dr,14.48380305
+271,15.05183452,525,03,6900 Valley Circle Blvd,V,West Hills Sport Center,C,12,Name: West Hills Sport Center\nLocation: 6900 Valley Circle Blvd,15.05183452
+272,8.08074689,526,03,6731 Wilbur Ave.,V,West Valley Park,N,3,Name: West Valley Park\nLocation: 6731 Wilbur Ave.,8.08074689
+273,23.57859354,151,11,7000 W Manchester Ave,W,Westchester Recreation Center,C,11,Name: Westchester Recreation Center\nLocation: 7000 W Manchester Ave,23.57859354
+274,2.24358836,132,11,1234 Pacific Ave,W,Westminster Park,N,11,Name: Westminster Park\nLocation: 1234 Pacific Ave,2.24358836
+275,0.87007152,133,11,1234 Pacific Ave,W,Westminster Dog Park,N,11,Name: Westminster Dog Park\nLocation: 1234 Pacific Ave,0.87007152
+276,26.69566228,666,05,1350 S Sepulveda Blvd,W,Westwood Park,C,5,Name: Westwood Park\nLocation: 1350 S Sepulveda Blvd,26.69566228
+277,1.37760044,285,04,5801 1/2 Whitnall Hwy,V,Whitnall Dog Park,N,2,Name: Whitnall Dog Park\nLocation: 5801 1/2 Whitnall Hwy,1.37760044
+278,125.13442464,197,02,S of Maxwell Fire Rd,V,Wilacre Park,R,2,Name: Wilacre Park\nLocation: S of Maxwell Fire Rd,125.13442464
+279,7.28812133,779,12,12001 Wibur Ave,V,Wilbur-Tampa Park,N,12,Name: Wilbur-Tampa Park\nLocation: 12001 Wibur Ave,7.28812133
+280,0.83339013,1002,99,8341 De Longpre Ave.,NA,William S. Hart Park,N, ,Name: William S. Hart Park\nLocation: 8341 De Longpre Ave.,0.83339013
+281,7.3064255,324,15,325 Neptune Ave.,P,Wilmington Recreation Center,N,15,Name: Wilmington Recreation Center\nLocation: 325 Neptune Ave.,7.3064255
+282,0.48369768,323,15,"Avalon Place & ""I"" Street",P,Wilmington Town Square,N,15,"Name: Wilmington Town Square\nLocation: Avalon Place & ""I"" Street",0.48369768
+283,181.20376281,299,04,4730 Crystal Springs Dr,G,Wilson Golf Course,R,4,Name: Wilson Golf Course\nLocation: 4730 Crystal Springs Dr,181.20376281
+284,15.94776638,198,12,8401 Winnetka Ave,V,Winnetka Recreation Center,C,3,Name: Winnetka Recreation Center\nLocation: 8401 Winnetka Ave,15.94776638
+285,0.66796957,667,05,3409 Vinton Ave,W,Woodbine Park,N,5,Name: Woodbine Park\nLocation: 3409 Vinton Ave,0.66796957
+286,4.70724142,199,02,11240 Moorpark St,V,Woodbridge Park,N,2,Name: Woodbridge Park\nLocation: 11240 Moorpark St,4.70724142
+287,18.75959737,527,03,5858 Shoup Ave,V,Woodland Hills Recreation Center,C,3,Name: Woodland Hills Recreation Center\nLocation: 5858 Shoup Ave,18.75959737
+288,238.88784079,809,06,6331 Woodley Ave,V,Woodley Lakes Golf Course,R,6,Name: Woodley Lakes Golf Course\nLocation: 6331 Woodley Ave,238.88784079
+289,10.00311971,200,14,1840 Yosemite Drive,M,Yosemite Recreation Center,C,14,Name: Yosemite Recreation Center\nLocation: 1840 Yosemite Drive,10.00311971
+290,0.9716847,273,04,6671 W Yucca St,G,Yucca Community Center,N,13,Name: Yucca Community Center\nLocation: 6671 W Yucca St,0.9716847
+291,9.73628318,201,12,11690 Zelzah Ave,V,Zelzah Park,N,12,Name: Zelzah Park\nLocation: 11690 Zelzah Ave,9.73628318
+292,0.13172939,208,09,5207 S Broadway,P,Broadway Park,N,9,Name: Broadway Park\nLocation: 5207 S Broadway,0.13172939
+293,3.116622,233,13,1122 Cole Ave,M,Hollywood Recreation Center,N,13,Name: Hollywood Recreation Center\nLocation: 1122 Cole Ave,3.116622
+294,0.32394081,227,13,1644-48 Beverly Blvd,M,Beverly Park,N,13,Name: Beverly Park\nLocation: 1644-48 Beverly Blvd,0.32394081
+295,0.21738554,236,13,3305 Larissa Dr,M,Larissa Parkway,N,13,Name: Larissa Parkway\nLocation: 3305 Larissa Dr,0.21738554
+296,0.32174466,238,13,3022 Del Monte Dr.,M,Laurel and Hardy Park,N,13,Name: Laurel and Hardy Park\nLocation: 3022 Del Monte Dr.,0.32174466
+297,0.43145327,242,13,1571 Rockwood St,M,Rockwood Community Park,N,13,Name: Rockwood Community Park\nLocation: 1571 Rockwood St,0.43145327
+298,0.3443659,243,13,5707 Lexington Ave,M,Seily Rodriguez Park,N,13,Name: Seily Rodriguez Park\nLocation: 5707 Lexington Ave,0.3443659
+299,3.93497998,245,13,1850 W Silverlake Blvd,M,Silverlake Recreation Center,N,13,Name: Silverlake Recreation Center\nLocation: 1850 W Silverlake Blvd,3.93497998
+300,18.33573701,229,13,1800 Riverside Dr.,M,Elysian Park Expansion,C,13,Name: Elysian Park Expansion\nLocation: 1800 Riverside Dr.,18.33573701
+301,0.56091512,248,01,Occidental Blvd,M,Occidental Parkway,N,1,Name: Occidental Parkway\nLocation: Occidental Blvd,0.56091512
+302,12.48760028,510,03,Wooded Vista & Twisted Oak Dr,V,Knapp Ranch Park West,C,12,Name: Knapp Ranch Park West\nLocation: Wooded Vista & Twisted Oak Dr,12.48760028
+303,16.96064883,505,03,20856 Mulholland Dr,V,Caplow Property,C,3,Name: Caplow Property\nLocation: 20856 Mulholland Dr,16.96064883
+304,40.50806384,509,03,4720 Corbin Ave,V,Corbin Canyon Park,C,3,Name: Corbin Canyon Park\nLocation: 4720 Corbin Ave,40.50806384
+305,0.10446148,513,03,5250 N. Mecca Ave,V,Mecca Avenue Park,N,3,Name: Mecca Avenue Park\nLocation: 5250 N. Mecca Ave,0.10446148
+306,14.58842132,515,11,19900 Mulholland Dr,V,Pilson Property,C,3,Name: Pilson Property\nLocation: 19900 Mulholland Dr,14.58842132
+307,21.35216536,521,11,S. of Owen Brown Road,W,Steers Property,C, ,Name: Steers Property\nLocation: S. of Owen Brown Road,21.35216536
+308,0.78864455,507,03,8120 Vanalden Ave,V,Cleveland High School Pool,N,3,Name: Cleveland High School Pool\nLocation: 8120 Vanalden Ave,0.78864455
+309,12.50909174,753,12,20500 Sesnon Blvd,V,Holleigh Bernson Memorial Park,C,12,Name: Holleigh Bernson Memorial Park\nLocation: 20500 Sesnon Blvd,12.50909174
+310,0.08313287,774,12,18501 Rinaldi St,V,Rinaldi Park,N,12,Name: Rinaldi Park\nLocation: 18501 Rinaldi St,0.08313287
+311,10.89660145,777,12,15800 Rinaldi St,V,Van Norman Lakes Reservoir,C,12,Name: Van Norman Lakes Reservoir\nLocation: 15800 Rinaldi St,10.89660145
+312,2.90303784,202,12,9301 Valley Circle Blvd.,V,Chatsworth Oaks Park,N,12,Name: Chatsworth Oaks Park\nLocation: 9301 Valley Circle Blvd.,2.90303784
+313,22.21382075,752,12,17301 Sesnon Blvd,V,Bee Canyon Park,C,12,Name: Bee Canyon Park\nLocation: 17301 Sesnon Blvd,22.21382075
+314,8.115835,165,09,5790 Compton Ave,P,Augustus F. Hawkins Natural Park,N,9,Name: Augustus F. Hawkins Natural Park\nLocation: 5790 Compton Ave,8.115835
+315,0.54130545,219,09,5350 Alba St,P,Pueblo del Rio Recreation Center,N,9,Name: Pueblo del Rio Recreation Center\nLocation: 5350 Alba St,0.54130545
+316,0.14522547,602,09,4521 S Central Ave,P,Vernon Branch Library Pocket Park,N,9,Name: Vernon Branch Library Pocket Park\nLocation: 4521 S Central Ave,0.14522547
+317,131.1977405,101,11,2660 Westridge Rd,W,Mandeville Canyon Park,R,11,Name: Mandeville Canyon Park\nLocation: 2660 Westridge Rd,131.1977405
+318,23.28643538,103,11,"NE of Sullivan Fire Rd (per Alpha; no other address or HSENO)",W,Sullivan Canyon Park,C,11,"Name: Sullivan Canyon Park\nLocation: NE of Sullivan Fire Rd (per Alpha; no other address or HSENO)",23.28643538
+319,25.75591813,104,11,"East end of Oracle Place; no other street address or HSENO available",W,Rivas Canyon Park,C,11,"Name: Rivas Canyon Park\nLocation: East end of Oracle Place; no other street address or HSENO available",25.75591813
+320,0.46358084,112,11,Via Las Palmas & Via La Costa,W,Temescal Ridge Trailhead,N,11,Name: Temescal Ridge Trailhead\nLocation: Via Las Palmas & Via La Costa,0.46358084
+321,24.38543131,114,11,15400 Pacific Coast Hwy,W,Palisades Park (Pacific Palisades),C,11,Name: Palisades Park (Pacific Palisades)\nLocation: 15400 Pacific Coast Hwy,24.38543131
+322,1.556321,118,11,333 S Barrington Ave,W,Barrington Dog Park,N, ,Name: Barrington Dog Park\nLocation: 333 S Barrington Ave,1.556321
+323,14.32617065,123,11,3324 S Centinela Ave,W,Venice Reservoir Site,C,11,Name: Venice Reservoir Site\nLocation: 3324 S Centinela Ave,14.32617065
+324,149.53595831,225,12,8751-9461 Valley Circle Blvd,V,Chatsworth Reservoir Site,R,12,Name: Chatsworth Reservoir Site\nLocation: 8751-9461 Valley Circle Blvd,149.53595831
+325,82.3419685,999,12,Balboa Blvd. across from Balboa Golf Course,V,Balboa Sports Center,R,6,Name: Balboa Sports Center\nLocation: Balboa Blvd. across from Balboa Golf Course,82.3419685
+326,1538.59641923,750,06,17017 Burbank Blvd,V,Sepulveda Basin Recreation Area,R,6,Name: Sepulveda Basin Recreation Area\nLocation: 17017 Burbank Blvd,1538.59641923
+327,109.66407201,808,06,6350 Woodley Ave,V,Woodley Avenue Park,R,6,Name: Woodley Avenue Park\nLocation: 6350 Woodley Ave,109.66407201
+328,14.71660197,178,06,Burbank Blvd. across from Encino Golf Course,V,Hjelte Sports Center,C,6,Name: Hjelte Sports Center\nLocation: Burbank Blvd. across from Encino Golf Course,14.71660197
+329,1.54823408,998,05,7174 N. Hayvenhurst Ave,V,Encino Park and Ride,N,5,Name: Encino Park and Ride\nLocation: 7174 N. Hayvenhurst Ave,1.54823408
+330,24.09100738,159,05,16633 Magnolia Blvd,V,Sepulveda Garden Center,C,5,Name: Sepulveda Garden Center\nLocation: 16633 Magnolia Blvd,24.09100738
+331,169.24247559,810,06,6200 Balboa Blvd,V,Anthony C. Beilenson Park,R,6,Name: Anthony C. Beilenson Park\nLocation: 6200 Balboa Blvd,169.24247559
+332,18.22357032,761,12,13100 Balboa Blvd,V,Granada Hills Youth Recreation Center,C,12,Name: Granada Hills Youth Recreation Center\nLocation: 13100 Balboa Blvd,18.22357032
+333,50.11097445,996,12,W of Porter Ranch Dr. S of Sesnon Blvd.,V,Porter Ranch-Sesnon Property,R,12,Name: Porter Ranch-Sesnon Property\nLocation: W of Porter Ranch Dr. S of Sesnon Blvd.,50.11097445
+334,25.88103696,765,12,19900 Sesnon Blvd,V,Moonshine Canyon Park,C,12,Name: Moonshine Canyon Park\nLocation: 19900 Sesnon Blvd,25.88103696
+335,51.9927585,754,12,Browns Canyon Rd,V,Browns Creek Park,R,12,Name: Browns Creek Park\nLocation: Browns Canyon Rd,51.9927585
+336,13.60455816,767,12,Between Oso Canyon and Limekiln Canyon Roads,V,Old Mission Trail,C,12,Name: Old Mission Trail\nLocation: Between Oso Canyon and Limekiln Canyon Roads,13.60455816
+337,45.15844896,995,06,"near Sheldon, Arleta and Hollywood Freeway",V,Sheldon-Arleta Park,C,6,"Name: Sheldon-Arleta Park\nLocation: near Sheldon, Arleta and Hollywood Freeway",45.15844896
+338,0.25881891,992,05,4924 Paso Robles Ave,V,Encino Women's Club,N,5,Name: Encino Women's Club\nLocation: 4924 Paso Robles Ave,0.25881891
+339,3.45926533,657,05,601 Club View Dr,W,Armand Hammer Golf Course,N,5,Name: Armand Hammer Golf Course\nLocation: 601 Club View Dr,3.45926533
+340,182.61241587,206,05,2551 Motor Ave,W,Cheviot Hills Park,R,5,Name: Cheviot Hills Park\nLocation: 2551 Motor Ave,182.61241587
+341,0.97483455,651,05,6313 W San Vicente Blvd,W,Carthay Circle Park,N,5,Name: Carthay Circle Park\nLocation: 6313 W San Vicente Blvd,0.97483455
+342,3.93712161,994,05,8260 Mulholland Dr,V,Laurel Canyon Dog Park,N,4,Name: Laurel Canyon Dog Park\nLocation: 8260 Mulholland Dr,3.93712161
+343,8.22261422,664,02,Coldwater Canyon between Oxnard St and Chandler Blvd,V,Tujunga Greenbelt,N,2,Name: Tujunga Greenbelt\nLocation: Coldwater Canyon between Oxnard St and Chandler Blvd,8.22261422
+344,0.04332494,656,05,Ladera Dr at Sunset Blvd,W,Gateway Triangle,N, ,Name: Gateway Triangle\nLocation: Ladera Dr at Sunset Blvd,0.04332494
+345,79.39854979,654,05,14890 Valley Vista Blvd,V,Deervale-Stone Canyon Park,R,4,Name: Deervale-Stone Canyon Park\nLocation: 14890 Valley Vista Blvd,79.39854979
+346,0.11270542,662,05,7811 Rosewood Ave,W,Rosewood Gardens,N,5,Name: Rosewood Gardens\nLocation: 7811 Rosewood Ave,0.11270542
+347,0.28696473,665,05,1246 Glendon Ave,W,Westwood Gardens Park,N,5,Name: Westwood Gardens Park\nLocation: 1246 Glendon Ave,0.28696473
+348,168.01010007,807,06,16821 Burbank Blvd,V,Encino Golf Course,R,6,Name: Encino Golf Course\nLocation: 16821 Burbank Blvd,168.01010007
+349,0.12441184,131,11,215-217 San Juan Ave,W,San Juan Garage,N,11,Name: San Juan Garage\nLocation: 215-217 San Juan Ave,0.12441184
+350,0.88550768,134,11,501 S Venice Blvd,W,Venice of America Centennial Park,N,11,Name: Venice of America Centennial Park\nLocation: 501 S Venice Blvd,0.88550768
+351,0.03368303,129,11,Marco Place near intersection with Shell Ave,W,Marco Triangle,N,11,Name: Marco Triangle\nLocation: Marco Place near intersection with Shell Ave,0.03368303
+352,0.02746075,128,11,Between Marco Court and Superba Court near Venice Blvd,W,Marco Place Parkway,N,11,Name: Marco Place Parkway\nLocation: Between Marco Court and Superba Court near Venice Blvd,0.02746075
+353,0.0162272,130,11,1646 S Crescent Pl,W,Crescent Place Triangle,N,11,Name: Crescent Place Triangle\nLocation: 1646 S Crescent Pl,0.0162272
+354,0.02753488,146,11,Nowita Place in between Oakwood and Sheel Ct,W,Nowita Triangle,N,11,Name: Nowita Triangle\nLocation: Nowita Place in between Oakwood and Sheel Ct,0.02753488
+355,0.02754952,154,11,AMOROSO PL. BTWN. OAKWOOD/SHELL AVES.,W,Amoroso Triangle,N,11,Name: Amoroso Triangle\nLocation: AMOROSO PL. BTWN. OAKWOOD/SHELL AVES.,0.02754952
+356,6.47063493,351,02,500 Westpark Dr,V,Valley Village Park,N,2,Name: Valley Village Park\nLocation: 500 Westpark Dr,6.47063493
+357,228.31347553,153,11,8255 Vista del Mar,W,Isidore B. Dockweiler State Beach,R,11,Name: Isidore B. Dockweiler State Beach\nLocation: 8255 Vista del Mar,228.31347553
+358,0.20766271,156,05,Mulholland Dr between Park Lane Circle Dr and Elvido Dr on N side,V,Mulholland View Site  No. 16,N,5,Name: Mulholland View Site  No. 16\nLocation: Mulholland Dr between Park Lane Circle Dr and Elvido Dr on N side,0.20766271
+359,102.90302833,116,11,17600 Pacific Coast Hwy,W,Will Rogers State Beach,R,11,Name: Will Rogers State Beach\nLocation: 17600 Pacific Coast Hwy,102.90302833
+360,8.71036187,282,99,Bob Hope St and Warner Blvd,M,Buena Vista Park,N, ,Name: Buena Vista Park\nLocation: Bob Hope St and Warner Blvd,8.71036187
+361,10.51848042,286,04,5801 1/2 Whitnall Hwy.,V,Whitnall Highway Park,C,2,Name: Whitnall Highway Park\nLocation: 5801 1/2 Whitnall Hwy.,10.51848042
+362,0.93589278,207,09,4025 Avalon Blvd,P,Avalon-San Pedro Park,N,9,Name: Avalon-San Pedro Park\nLocation: 4025 Avalon Blvd,0.93589278
+363,4281.73369926,161,04,LOS FELIZ BLVD./134 FWY./5 FWY.,G,Griffith Park,R,4,Name: Griffith Park\nLocation: LOS FELIZ BLVD./134 FWY./5 FWY.,4281.73369926
+364,2.58244124,289,04,VERMONT AVE. BTWN. LOS FELIZ BLVD. & GRIFFITH PARK,M,Vermont Parkway,N,4,Name: Vermont Parkway\nLocation: VERMONT AVE. BTWN. LOS FELIZ BLVD. & GRIFFITH PARK,2.58244124
+365,16.99917167,276,04,Rancho Ave & Riverside Dr,G,Bette Davis Picnic Area,C,4,Name: Bette Davis Picnic Area\nLocation: Rancho Ave & Riverside Dr,16.99917167
+366,3.79706931,270,04,5202 Zoo Dr,G,L.A. Live Steamers,N,4,Name: L.A. Live Steamers\nLocation: 5202 Zoo Dr,3.79706931
+367,67.2894818,269,04,500 Riverside Dr,G,L. A. Equestrian Center,R,4,Name: L. A. Equestrian Center\nLocation: 500 Riverside Dr,67.2894818
+368,12.73325068,275,04,Reese Pl. & Valley Heart Dr.,G,Griffith Park Pollywog Area,C,4,Name: Griffith Park Pollywog Area\nLocation: Reese Pl. & Valley Heart Dr.,12.73325068
+369,5.99746611,266,04,4730 Crystal Springs Dr,G,Griffith Park Boys Camp,N,4,Name: Griffith Park Boys Camp\nLocation: 4730 Crystal Springs Dr,5.99746611
+370,10.23262897,271,04,3200 Canyon Dr,G,Hollywoodland Girl's Camp,C,4,Name: Hollywoodland Girl's Camp\nLocation: 3200 Canyon Dr,10.23262897
+371,74.40611484,274,04,3200 Canyon Dr,G,Bronson Canyon,R,4,Name: Bronson Canyon\nLocation: 3200 Canyon Dr,74.40611484
+372,138.7731292,272,04,4730 Crystal Springs Dr,G,Harding Golf Course,R,4,Name: Harding Golf Course\nLocation: 4730 Crystal Springs Dr,138.7731292
+373,9.37681412,193,02,12541 Saticoy St,V,"Strathern Park, West",N,2,"Name: Strathern Park, West\nLocation: 12541 Saticoy St",9.37681412
+374,4.97799278,997,02,4989 N Sepulveda Blvd,V,Sherman Oaks Castle Park,N,4,Name: Sherman Oaks Castle Park\nLocation: 4989 N Sepulveda Blvd,4.97799278
+375,1.00523315,349,02,"Near Crestline Dr; at southern end of the McGroarty Cultural Art Center",V,Pasko Park,N,7,"Name: Pasko Park\nLocation: Near Crestline Dr; at southern end of the McGroarty Cultural Art Center",1.00523315
+376,47.37456673,362,02,Big Tujunga Canyon Rd North of Mt. Gleas,V,Tujunga Infiltration Galleries,C,7,Name: Tujunga Infiltration Galleries\nLocation: Big Tujunga Canyon Rd North of Mt. Gleas,47.37456673
+377,3.05609483,353,02,6226 Laurel Grove Avenue,V,Laurel Grove Park,N,2,Name: Laurel Grove Park\nLocation: 6226 Laurel Grove Avenue,3.05609483
+378,27.58387896,860,14,N. of Ventura Fwy S. of Valle Vista,M,Eagle Rock Hillside Park,C,14,Name: Eagle Rock Hillside Park\nLocation: N. of Ventura Fwy S. of Valle Vista,27.58387896
+379,2.17385852,861,14,701-717 Eagle Rock View Drive,M,Eagle Rock Historical Landmark,N,14,Name: Eagle Rock Historical Landmark\nLocation: 701-717 Eagle Rock View Drive,2.17385852
+380,4.49260965,873,14,911 N. Museum Drive,M,Moon Canyon Park,N,1,Name: Moon Canyon Park\nLocation: 911 N. Museum Drive,4.49260965
+381,1.08372163,254,10,9070 Venice Blvd.,W,Media Park,N,5,Name: Media Park\nLocation: 9070 Venice Blvd.,1.08372163
+382,0.62679194,262,10,2250 W. Jefferson Blvd,P,Leslie N. Shaw Park,N,10,Name: Leslie N. Shaw Park\nLocation: 2250 W. Jefferson Blvd,0.62679194
+383,0.74833901,260,10,4526 W. Pico Blvd,M,Eleanor Green Roberts Aquatic Center,N,10,Name: Eleanor Green Roberts Aquatic Center\nLocation: 4526 W. Pico Blvd,0.74833901
+384,193.9719356,556,07,Located in Hansen Dam Recreation Area.,V,Hansen Dam Golf Course,R,7,Name: Hansen Dam Golf Course\nLocation: Located in Hansen Dam Recreation Area.,193.9719356
+385,0.80116703,864,14,125 Paseo de la Plaza,M,Los Angeles Plaza Park,N,14,Name: Los Angeles Plaza Park\nLocation: 125 Paseo de la Plaza,0.80116703
+386,0.27377613,871,14,Lanark Street & Shelby Place,M,Lanark/Shelby Mini-Park,N,14,Name: Lanark/Shelby Mini-Park\nLocation: Lanark Street & Shelby Place,0.27377613
+387,2.64463291,850,14,511 W Avenue 46,M,Carlin G. Smith Recreation Center,N,1,Name: Carlin G. Smith Recreation Center\nLocation: 511 W Avenue 46,2.64463291
+388,0.31823177,859,14,2035 Colorado Blvd,M,Eagle Rock City Hall,N,14,Name: Eagle Rock City Hall\nLocation: 2035 Colorado Blvd,0.31823177
+389,20.67531597,862,14,1100 Eagle Vista Drive,M,Eagle Rock Recreation Center,C,14,Name: Eagle Rock Recreation Center\nLocation: 1100 Eagle Vista Drive,20.67531597
+390,1.46038706,880,14,Scholl Canyon Rd. near the 134 and Figueroa St.,M,Richard Alatorre Park,N,14,Name: Richard Alatorre Park\nLocation: Scholl Canyon Rd. near the 134 and Figueroa St.,1.46038706
+391,0.53766433,308,15,1052 Banning Blvd,P,Drum Barracks Civil War Museum,N,15,Name: Drum Barracks Civil War Museum\nLocation: 1052 Banning Blvd,0.53766433
+392,1.87212569,878,14,2765 Wabash Avenue,M,Wabash Recreation Center,N,14,Name: Wabash Recreation Center\nLocation: 2765 Wabash Avenue,1.87212569
+393,2.26393695,318,15,W 21st & Meyler Streets,P,Alma Park,N,15,Name: Alma Park\nLocation: W 21st & Meyler Streets,2.26393695
+394,0.23363681,853,14,370 S Clarence Street,M,Aliso-Pico Recreation Center,N,14,Name: Aliso-Pico Recreation Center\nLocation: 370 S Clarence Street,0.23363681
+395,2.2084693,854,14,5566 Via Marisol,M,Hermon Dog Park,N,14,Name: Hermon Dog Park\nLocation: 5566 Via Marisol,2.2084693
+396,74.52023367,322,15,560 N Western Avenue,P,Peck Park,R,15,Name: Peck Park\nLocation: 560 N Western Avenue,74.52023367
+397,6.49467401,187,14,1016 S Fresno Street,M,Msgr. Ramon D. Garcia Recreation Center,N,14,Name: Msgr. Ramon D. Garcia Recreation Center\nLocation: 1016 S Fresno Street,6.49467401
+398,5.58841557,175,14,6240 Meridian Street,M,Garvanza Park,N,14,Name: Garvanza Park\nLocation: 6240 Meridian Street,5.58841557
+399,8.4752691,169,14,933 S. Mott Street,M,Boyle Heights Sports Center,N,14,Name: Boyle Heights Sports Center\nLocation: 933 S. Mott Street,8.4752691
+400,5.69779638,361,02,6150 Atoll Avenue,V,Valley Glen Community Park,N,2,Name: Valley Glen Community Park\nLocation: 6150 Atoll Avenue,5.69779638
+401,30.62348525,359,02,7000 Whitsett Avenue,V,Whitsett Sports Field,C,2,Name: Whitsett Sports Field\nLocation: 7000 Whitsett Avenue,30.62348525
+402,587.9734352,355,02,9999 Edmore Place,V,Verdugo Mountain Park,R,7,Name: Verdugo Mountain Park\nLocation: 9999 Edmore Place,587.9734352
+403,17.07072318,354,02,"9401 Villa Cabrini Drive, West",V,Villa Cabrini Park,C,2,"Name: Villa Cabrini Park\nLocation: 9401 Villa Cabrini Drive, West",17.07072318
+404,40.07399335,321,15,3800 Stephen M. White Drive,P,Cabrillo Beach,C,15,Name: Cabrillo Beach\nLocation: 3800 Stephen M. White Drive,40.07399335
+405,39.12964891,331,15,807 S Paseo del Mar,P,Point Fermin Park,C,15,Name: Point Fermin Park\nLocation: 807 S Paseo del Mar,39.12964891
+406,0.72188439,732,01,1827 S Hoover Street,M,Pico Union Park,N,1,Name: Pico Union Park\nLocation: 1827 S Hoover Street,0.72188439
+407,5.41234209,717,01,6150 Piedmont Avenue,M,Highland Park Recreation Center,N,1,Name: Highland Park Recreation Center\nLocation: 6150 Piedmont Avenue,5.41234209
+408,39.39160138,734,01,1900 N San Fernando Road,M,Rio de Los Angeles State Park,C,1,Name: Rio de Los Angeles State Park\nLocation: 1900 N San Fernando Road,39.39160138
+409,8.91134709,729,01,243 E Avenue 33,M,Mount Olympus Park,N,1,Name: Mount Olympus Park\nLocation: 243 E Avenue 33,8.91134709
+410,0.56202557,723,01,236 S Avenue 57,M,La Tierra de la Culebra,N,1,Name: La Tierra de la Culebra\nLocation: 236 S Avenue 57,0.56202557
+411,0.96345892,731,01,2332 W 4th Street,M,Parkview Photo Center,N,1,Name: Parkview Photo Center\nLocation: 2332 W 4th Street,0.96345892
+412,0.17362182,739,01,Woodside Drive & Marmion Way,M,Woodside Triangle,N,1,Name: Woodside Triangle\nLocation: Woodside Drive & Marmion Way,0.17362182
+413,2.07147729,707,01,1419 Colton Street,M,Echo Park Deep Pool,N,1,Name: Echo Park Deep Pool\nLocation: 1419 Colton Street,2.07147729
+414,64.78227157,336,15,1235 N Figueroa Place,P,Harbor Park Golf Course,R,15,Name: Harbor Park Golf Course\nLocation: 1235 N Figueroa Place,64.78227157
+415,290.87072064,337,15,25820 Vermont Avenue,P,Ken Malloy Harbor Regional Park,R,15,Name: Ken Malloy Harbor Regional Park\nLocation: 25820 Vermont Avenue,290.87072064
+416,70.4438066,316,15,3601 S Gaffey Street,P,Angels Gate Park,R,15,Name: Angels Gate Park\nLocation: 3601 S Gaffey Street,70.4438066
+417,0.36639224,722,01,Lacy Street & Avenue 26,M,Lacy Street Neighborhood Park,N,1,Name: Lacy Street Neighborhood Park\nLocation: Lacy Street & Avenue 26,0.36639224
+418,1.04341145,705,01,1775 N Spring St,M,Downey Pool,N,1,Name: Downey Pool\nLocation: 1775 N Spring St,1.04341145
+419,4.16432888,716,01,3800 Homer St.,M,Heritage Square,N,1,Name: Heritage Square\nLocation: 3800 Homer St.,4.16432888
+420,0.73758287,1006,01,2500 Griffin Avenue,M,Lincoln Heights Youth Center,N,1,Name: Lincoln Heights Youth Center\nLocation: 2500 Griffin Avenue,0.73758287
+421,16.89427137,183,02,7570 McGroarty Terrace,V,McGroarty Cultural Art Center,C,7,Name: McGroarty Cultural Art Center\nLocation: 7570 McGroarty Terrace,16.89427137
+422,1.20772285,265,10,3085 Clyde Avenue,W,Westside Neighborhood Park,N,10,Name: Westside Neighborhood Park\nLocation: 3085 Clyde Avenue,1.20772285
+423,22.53409267,728,01,4545 Homer Street,M,Montecito Heights Recreation Center,C,1,Name: Montecito Heights Recreation Center\nLocation: 4545 Homer Street,22.53409267
+424,25.83228861,189,14,3606 Boundary Ave.,M,Rose Hill Park,C,14,Name: Rose Hill Park\nLocation: 3606 Boundary Ave.,25.83228861
+425,0.88446975,304,15,550 Harbor Blvd,P,John S. Gibson Jr. Park,N,15,Name: John S. Gibson Jr. Park\nLocation: 550 Harbor Blvd,0.88446975
+426,8.32651108,365,08,3934 S Western Avenue,P,Martin Luther King Jr. Park,N,8,Name: Martin Luther King Jr. Park\nLocation: 3934 S Western Avenue,8.32651108
+427,7.44192893,1003,10,Airdrome St. between Stearns Dr. and Hayworth Ave.,W,Los Angeles Center for Enriched Studies (LACES),N,10,Name: Los Angeles Center for Enriched Studies (LACES)\nLocation: Airdrome St. between Stearns Dr. and Hayworth Ave.,7.44192893
+428,3.24151408,312,15,825 Capitol Dr.,P,Harbor Highlands Park,N,15,Name: Harbor Highlands Park\nLocation: 825 Capitol Dr.,3.24151408
+429,4.97420131,314,15,430 N. Bandini St.,P,Bandini Canyon Park,N,15,Name: Bandini Canyon Park\nLocation: 430 N. Bandini St.,4.97420131
+430,0.12643795,300,10,4103 W. Washington Blvd.,M,Washington Irving Pocket Park,N,10,Name: Washington Irving Pocket Park\nLocation: 4103 W. Washington Blvd.,0.12643795
+431,0.39949857,328,15,351 N. Gaffey St.,P,San Pedro Welcome Park,N,15,Name: San Pedro Welcome Park\nLocation: 351 N. Gaffey St.,0.39949857
+432,2.85302943,332,15,601 W. 24th St.,P,Harbor View Memorial Park,N,15,Name: Harbor View Memorial Park\nLocation: 601 W. 24th St.,2.85302943
+433,0.2066982,370,08,8742 & 8750 S. Vermont Ave.,P,Community Build Youth Center Expansion,N,8,Name: Community Build Youth Center Expansion\nLocation: 8742 & 8750 S. Vermont Ave.,0.2066982
+434,2.15714749,374,08,University Ave. between 30th St. & Hoover St.,M,Hoover Pedestrian Mall,N,9,Name: Hoover Pedestrian Mall\nLocation: University Ave. between 30th St. & Hoover St.,2.15714749
+435,1449.53936346,555,07,11770 Foothill Blvd.,V,Hansen Dam Recreation Area,R,7,Name: Hansen Dam Recreation Area\nLocation: 11770 Foothill Blvd.,1449.53936346
+436,112.33345525,1000,07,In Hansen Dam Recreation Area,V,Hansen Dam Quarry Lake,R,7,Name: Hansen Dam Quarry Lake\nLocation: In Hansen Dam Recreation Area,112.33345525
+437,2.61575243,333,15,1670 Palos Verdes Dr. North,P,Pacific Region Headquarters,N,15,Name: Pacific Region Headquarters\nLocation: 1670 Palos Verdes Dr. North,2.61575243
+438,18.45972679,1001,99,3133 Decker Road,NA,Decker Canyon Camp,C, ,Name: Decker Canyon Camp\nLocation: 3133 Decker Road,18.45972679
+439,13.36028418,702,14,934 N. San Pasqual Ave. (in between Comet St. and Arroyo Dr.),M,San Pasqual Park,C,14,Name: San Pasqual Park\nLocation: 934 N. San Pasqual Ave. (in between Comet St. and Arroyo Dr.),13.36028418
+440,0.85046293,307,15,918 Sanford Ave.,P,East Wilmington Greenbelt Community Center,N,15,Name: East Wilmington Greenbelt Community Center\nLocation: 918 Sanford Ave.,0.85046293
+441,3.95581165,310,15,1148 N. Watson Ave.,P,Wilmington Veterans Park,N,15,Name: Wilmington Veterans Park\nLocation: 1148 N. Watson Ave.,3.95581165
+442,22.42866844,855,14,5566 Via Marisol,M,Hermon Park,C,14,Name: Hermon Park\nLocation: 5566 Via Marisol,22.42866844
+443,85.97220078,164,14,5568 Via Marisol,M,Arroyo Seco Park,R,14,Name: Arroyo Seco Park\nLocation: 5568 Via Marisol,85.97220078
+444,9.7173258,181,10,2830 W. 6th St.,M,Lafayette Park,N,10,Name: Lafayette Park\nLocation: 2830 W. 6th St.,9.7173258
+445,17.79632547,305,15,501 Westmont Dr.,P,"Gaffey Street ""Field of Dreams""",C,15,"Name: Gaffey Street ""Field of Dreams""\nLocation: 501 Westmont Dr.",17.79632547
+446,0.5044047,302,15,1450 N. Avalon Blvd.,P,Banning High School Pool,N,15,Name: Banning High School Pool\nLocation: 1450 N. Avalon Blvd.,0.5044047
+447,4.73480221,335,15,11251 Compton Ave.,P,William Nickerson Gardens Recreation Center,N,15,Name: William Nickerson Gardens Recreation Center\nLocation: 11251 Compton Ave.,4.73480221
+448,6.64535249,210,08,3980 S. Menlo Ave.,P,EXPO Center,N,9,Name: EXPO Center\nLocation: 3980 S. Menlo Ave.,6.64535249
+449,92.43634001,856,14,4371 Multnomah Street,M,Ascot Hills Park,R,14,Name: Ascot Hills Park\nLocation: 4371 Multnomah Street,92.43634001
+450,2.56003108,881,14,2830 Lancaster Avenue,M,Henry Alvarez Memorial Park,N,14,Name: Henry Alvarez Memorial Park\nLocation: 2830 Lancaster Avenue,2.56003108
+451,2.09913453,188,14,2830 Lancaster Avenue,M,Ramona Gardens Park,N,14,Name: Ramona Gardens Park\nLocation: 2830 Lancaster Avenue,2.09913453
+452,6.40045762,882,14,2830 Lancaster Avenue,M,Ramona Gardens Recreation Center,N,14,Name: Ramona Gardens Recreation Center\nLocation: 2830 Lancaster Avenue,6.40045762
+453,318.6194734,704,01,4235 Monterey Road,M,Ernest E. Debs Regional Park,R,1,Name: Ernest E. Debs Regional Park\nLocation: 4235 Monterey Road,318.6194734
+454,2.47869141,1005,15,Berth 84 - Foot of 6th Street at Harbor Blvd.,P,Los Angeles Maritime Museum,N,15,Name: Los Angeles Maritime Museum\nLocation: Berth 84 - Foot of 6th Street at Harbor Blvd.,2.47869141
+455,10.38058139,499,04,Griffith Park Dr. near Zoo Dr.,G,Travel Town Museum,C,4,Name: Travel Town Museum\nLocation: Griffith Park Dr. near Zoo Dr.,10.38058139
+456,35.49389336,113,11,15125 Pacific Coast Hwy,W,Potrero Canyon Park,C,11,Name: Potrero Canyon Park\nLocation: 15125 Pacific Coast Hwy,35.49389336
+457,6.95164183,812,06,7965 Whitsett Ave,V,Jaime Beth Slavin Park,N,2,Name: Jaime Beth Slavin Park\nLocation: 7965 Whitsett Ave,6.95164183
+458,2.25891136,256,10,2413 2nd Ave.,M,Benny H. Potter West Adams Avenues Memorial Park,N,10,Name: Benny H. Potter West Adams Avenues Memorial Park\nLocation: 2413 2nd Ave.,2.25891136
+459,0.65482105,1007,01,322 S. Lucas Ave.,M,Miguel Contreras Learning Center Pool,N,1,Name: Miguel Contreras Learning Center Pool\nLocation: 322 S. Lucas Ave.,0.65482105
+460,1.29342278,565,07,15721 Cobalt St,V,Telfair Park,N,7,Name: Telfair Park\nLocation: 15721 Cobalt St,1.29342278
+461,2.02854039,1008,14,845 N. Alameda St.,M,El Pueblo de Los Angeles Historic Monument,N,14,Name: El Pueblo de Los Angeles Historic Monument\nLocation: 845 N. Alameda St.,2.02854039
+462,185.56601838,1009,06,6335 Woodley Avenue,V,Sepulveda Basin Wildlife Reserve,R,6,Name: Sepulveda Basin Wildlife Reserve\nLocation: 6335 Woodley Avenue,185.56601838
+463,0.20915162,1010,08,6116 11th Avenue,P,11th Avenue Park,N,8,Name: 11th Avenue Park\nLocation: 6116 11th Avenue,0.20915162
+464,0.32588932,1012,09,2400 S. Flower Street,P,Orthopedic Hospital Universal Access Playground,N,9,Name: Orthopedic Hospital Universal Access Playground\nLocation: 2400 S. Flower Street,0.32588932
+465,0.15495857,1011,01,2909 Francis Avenue,M,Francis Avenue Community Garden,N,1,Name: Francis Avenue Community Garden\nLocation: 2909 Francis Avenue,0.15495857
+466,544.7102735,162,01,929 Academy Road,M,Elysian Park,R,1,Name: Elysian Park\nLocation: 929 Academy Road,544.7102735
+467,0.13919573,1013,02,7960 Bellaire Ave,V,Bellaire Avenue Park,N,2,Name: Bellaire Avenue Park\nLocation: 7960 Bellaire Ave,0.13919573
+468,0.36552489,1015,05,5001 Balboa Blvd,V,Old Encino Fire Station 83 Property,N,5,Name: Old Encino Fire Station 83 Property\nLocation: 5001 Balboa Blvd,0.36552489
+469,0.29491732,1016,01,303 Patton St,M,Old Echo Park Boys & Girls Club,N,1,Name: Old Echo Park Boys & Girls Club\nLocation: 303 Patton St,0.29491732
+470,0.14488098,1017,11,3503 Via Dolce,W,Via Dolce Park,N,11,Name: Via Dolce Park\nLocation: 3503 Via Dolce,0.14488098
+471,1.17751731,1018,07,11349 El Dorado Ave,V,El Dorado Avenue Park,N,7,Name: El Dorado Avenue Park\nLocation: 11349 El Dorado Ave,1.17751731
+472,0.79622789,1019,09,428 S. Spring St,M,Spring Street Park,N,14,Name: Spring Street Park\nLocation: 428 S. Spring St,0.79622789
+473,0.17801921,1020,01,3320 Pepper Ave,M,Old Cypress Park Library,N,1,Name: Old Cypress Park Library\nLocation: 3320 Pepper Ave,0.17801921
+474,1.87869942,1021,01,1301 W. 1st Street,M,Vista Hermosa Soccer Field,N,1,Name: Vista Hermosa Soccer Field\nLocation: 1301 W. 1st Street,1.87869942
+475,95.00362585,326,15,1600 S Paseo del Mar,P,White Point Park Nature Preserve,R,15,Name: White Point Park Nature Preserve\nLocation: 1600 S Paseo del Mar,95.00362585
+476,9.00598576,1022,09,5413 South Avalon Blvd,P,South L.A. Wetlands Park,N,9,Name: South L.A. Wetlands Park\nLocation: 5413 South Avalon Blvd,9.00598576
+477,73.60605127,1023,02,6801 La Tuna Canyon Road,V,La Tuna Canyon Park,R,7,Name: La Tuna Canyon Park\nLocation: 6801 La Tuna Canyon Road,73.60605127
+478,52.37738824,346,02,7021 Arama Ave,V,Haines Canyon Park,C,7,Name: Haines Canyon Park\nLocation: 7021 Arama Ave,52.37738824
+479,4.48257094,1014,13,2543 Armstrong Ave,M,Silverlake Meadows,N,13,Name: Silverlake Meadows\nLocation: 2543 Armstrong Ave,4.48257094
