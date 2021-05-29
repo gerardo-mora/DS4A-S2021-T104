@@ -1,0 +1,480 @@
+OBJECTID,Area_Acres,Park_ID,Address,Name,Park_Class,ACRES
+1,8.4333635,512,23751 Ingomar St,Lazy J Ranch Park,N,8.4333635
+2,1.38737377,883,Adjacent to Angels Gate Park at 3400 Gaffey Street,Lookout Point Park,N,1.38737377
+3,3.17386107,320,1464 E 109th Street,109th Street Recreation Center,N,3.17386107
+4,0.1548711,366,4726 8th Avenue,Angeles Mesa Park,N,0.1548711
+5,0.96072542,213,4800 S. Hoover St,Julian C. Dixon Park,N,0.96072542
+6,0.34030051,851,624 E. 6th Street,6th & Gladys Street Park,N,0.34030051
+7,16.45926122,383,8800 S Hoover Street,Algin Sutton Recreation Center,C,16.45926122
+8,60.4493581,751,18041 Rinaldi St,Aliso Canyon Park,R,60.4493581
+9,0.04295563,852,1304 Pleasant Avenue,Aliso Triangle,N,0.04295563
+10,6.65413078,500,22102 Alizondo Dr,Alizondo Drive Park,N,6.65413078
+11,1.93660659,700,817 Yale St.,Alpine Recreation Center,N,1.93660659
+12,0.90997057,701,1342 South Alvarado Terrace,Alvarado Terrace Park,N,0.90997057
+13,1.61883222,317,828 S. Mesa St.,Anderson Memorial Senior Citizen Center,N,1.61883222
+14,2.19884341,550,10940 N Sepulveda Blvd,Andres Pico Adobe,N,2.19884341
+15,1.43585094,110,15920 Asilomar Blvd,Palisades-Asilomar Park,N,1.43585094
+16,10.74680555,166,1300 Dodson Ave.,Averill Park,C,10.74680555
+17,152.65598594,806,16821 Burbank Blvd,Balboa Golf Course,R,152.65598594
+18,10.86787423,167,5401 Highlight Place,Baldwin Hills Recreation Center,C,10.86787423
+19,21.09132548,313,1331 Eubank Ave.,Banning Park,C,21.09132548
+20,14.59294107,226,4800 Hollywood Blvd,Barnsdall Park,C,14.59294107
+21,18.64279132,108,333 S Barrington Ave,Barrington Recreation Center,C,18.64279132
+22,122.78202572,501,24544 Bell Canyon Rd,Bell Canyon Park,R,122.78202572
+23,9.10690806,168,826 Lucille Ave,Bellevue Recreation Center,N,9.10690806
+24,85.73617504,650,2448 N Angelo Dr,Beverly Glen Park,R,85.73617504
+25,0.6958894,800,14740 W. Blythe St,Andres and Maria Cardenas Recreation Center,N,0.6958894
+26,17.71013308,551,15174 San Fernando Mission Rd,Brand Park,C,17.71013308
+27,13.37632046,801,13310 Branford St,Branford Park,C,13.37632046
+28,10.75279848,170,461 Almaden Ct,Briarwood Park,C,10.75279848
+29,0.78742723,879,4301 Via Marisol,Budd Weiner Park,N,0.78742723
+30,1.56334578,290,11480 Tiara St,Tiara Street Site,N,1.56334578
+31,0.73423859,280,3919 Lankershim Blvd,Campo De Cahuenga,N,0.73423859
+32,0.13093986,140,401 Linnie Canal Wk,Canal Park,N,0.13093986
+33,0.77476767,504,7326 Jordan Ave,Canoga Park Senior Citizen Center,N,0.77476767
+34,23.80027163,552,15035 Crestknoll Dr,Carey Ranch Park,C,23.80027163
+35,3.08608076,506,24220 1/2 Clarington Dr,Castle Peak Park,N,3.08608076
+36,0.18970812,209,4222 Central Ave,Central Avenue Jazz Park,N,0.18970812
+37,1.44994597,211,1357 E 22nd St,Central Recreation Center,N,1.44994597
+38,28.36439908,277,3900 Chevy Chase Dr,Griffith Park Central Service Yard,C,28.36439908
+39,5.96552295,755,22525 Chase St,Chase Park,N,5.96552295
+40,24.14636004,756,22300 Chatsworth St,Chatsworth Park North,C,24.14636004
+41,1.54261219,758,22360 Devonshire St,Minnie Hill Palmer House / Homestead Acre,N,1.54261219
+42,73.07320535,757,22360 Devonshire St,Chatsworth Park South,R,73.07320535
+43,1.89168171,367,1950 W 54th Street,Chesterfield Square Park,N,1.89168171
+44,2.4370927,228,4165 Chevy Chase Dr,Chevy Chase Park,N,2.4370927
+45,0.17372971,368,76th at 5th Avenue,Circle Park (5th Ave.),N,0.17372971
+46,0.17161064,369,1975 W 76th Street,Circle Park (Gramercy),N,0.17161064
+47,1.7069232,212,200 N Spring St,City Hall Park,N,1.7069232
+48,0.3975994,255,1762 S La Cienega Blvd,Claude Pepper Senior Citizen Center,N,0.3975994
+49,0.92004715,858,4800 Cleland Avenue,Cleland Avenue Bicentennial Park,N,0.92004715
+50,0.30143418,652,2890 Club Dr,Club Circle Park,N,0.30143418
+51,1.99695063,508,7449 Melba Ave.,Cohasset-Melba Park,N,1.99695063
+52,41.15682768,203,12601 Mulholland Dr,Coldwater Canyon Park,C,41.15682768
+53,3.45629972,870,3141 E Olympic Blvd,Hostetter Park,N,3.45629972
+54,15.77999948,106,1000 Hanley Ave,Crestwood Hills Park,C,15.77999948
+55,3.26777211,145,5070 Slauson Ave,Culver-Slauson Park,N,3.26777211
+56,0.08803957,371,1287 W 38th Place,Rolland Curtis Park,N,0.08803957
+57,3.48924233,703,2630 Pepper Avenue,Cypress Recreation Center,N,3.48924233
+58,3.58801856,309,845 W. 12th St.,Ralph C. Daniels Field Sports Center,N,3.58801856
+59,1.37268939,279,1350 N Cherokee Ave,De Longpre Park,N,1.37268939
+60,0.61006784,653,314 Beverly Glen Blvd,De Neve Square Park,N,0.61006784
+61,9.11732002,171,17141 Nordhoff St,Dearborn Park,N,9.11732002
+62,1.64487345,802,10145 Arminta St,De Garmo Park,N,1.64487345
+63,10.99409494,147,6660 Esplanade Pl,Del Rey Lagoon,C,10.99409494
+64,4.45374918,803,15100 Erwin St,Delano Park,N,4.45374918
+65,2.8108007,372,1550 W 35th Place,Denker Recreation Center,N,2.8108007
+66,1.8226343,553,14215 Devonshire Ave,Devonshire Arleta Park,N,1.8226343
+67,4.83685715,554,10230 Woodman Ave,Devonwood Park,N,4.83685715
+68,0.4904149,247,7020 Franklin Ave,Dorothy J. and Benjamin B. Smith Park,N,0.4904149
+69,4.52075053,172,1772 N Spring St,Downey Recreation Center,N,4.52075053
+70,0.32258199,706,3160 E Minnesota Street,East Los Angeles Park,N,0.32258199
+71,0.12956924,306,"1300 ""O"" Street",East Wilmington Vest Pocket Park,N,0.12956924
+72,28.40685029,249,751 Echo Park Blvd.,Echo Park,C,28.40685029
+73,6.30935269,759,11820 Reseda Blvd,Eddleston Park,N,6.30935269
+74,61.28545119,502,6801 Sunset Ridge Ct,El Escorpion Park,R,61.28545119
+75,1.29010268,278,3300 Cahuenga Blvd,El Paseo De Cahuenga Park,N,1.29010268
+76,3.07719955,865,4410 Garden Homes Avenue,El Sereno North Park,N,3.07719955
+77,13.93500943,173,4721 Klamath Street,El Sereno Recreation Center,C,13.93500943
+78,0.90914951,866,4818 Klamath Place,El Sereno Senior Citizen Center,N,0.90914951
+79,1.99159156,230,1811 Ripple St,Elysian Valley Recreation Center,N,1.99159156
+80,0.92633121,158,4935 Balboa Blvd,Encino Community Center,N,0.92633121
+81,5.26510503,157,16953 Ventura Blvd,Encino Park,N,5.26510503
+82,0.53271106,714,1010 Everett Street,Everett Park,N,0.53271106
+83,6.6563445,867,2839 E 4th Street,Evergreen Recreation Center,N,6.6563445
+84,10.39269121,222,701 State Dr.,Exposition Park Rose Garden,C,10.39269121
+85,0.37881526,655,7929 Melrose Ave,Fairfax Senior Citizen Center,N,0.37881526
+86,1.16124866,344,9521 Tujunga Canyon Blvd,Fehlhaber-Houk Park,N,1.16124866
+87,4.32347172,119,11338 Santa Monica Blvd,Felicia Mahood Multipurpose Center,N,4.32347172
+88,9.25842388,174,8851 Laurel Canyon Blvd,Fernangeles Recreation Center,N,9.25842388
+89,2.90282516,220,4700 Honduras St,Fred Roberts Recreation Center,N,2.90282516
+90,0.63827135,214,7630 Towne Ave,Fremont High School Pool,N,0.63827135
+91,0.75091686,250,2330 S Genesee Avenue,Genesee Avenue Park,N,0.75091686
+92,14.62057944,217,429 E 42nd Place,Gilbert W. Lindsay Community Center,C,14.62057944
+93,12.6876408,231,3650 Verdugo Rd,Glassell Park,C,12.6876408
+94,4.82043253,142,4601 Alla Rd,Glen Alla Park,N,4.82043253
+95,0.29159272,232,2932 Glenhurst Ave,Glenhurst Park,N,0.29159272
+96,17.75559734,760,16730 Chatsworth St,Granada Hills Park,C,17.75559734
+97,0.11946406,330,10726 Grape St.,Grape Street Pocket Park,N,0.11946406
+98,0.59602106,715,3711 N Figueroa Street,Greayer's Oak Park,N,0.59602106
+99,7.63554657,176,431 E 89th St,Green Meadows Recreation Center,N,7.63554657
+100,1.22525701,283,5105 N Zoo Dr,Griffith Park Dog Park,N,1.22525701
+101,11.06863222,177,24901 Frampton Ave.,Harbor City Park,C,11.06863222
+102,1.60273414,252,890 S Lucerne Avenue,Harold A. Henry Park,N,1.60273414
+103,0.06597303,347,6830 N Woodman Avenue,Hartland Mini-Park,N,0.06597303
+104,12.87524427,384,1535 W 62nd Street,Jackie Tatum/Harvard Recreation Center,C,12.87524427
+105,24.99132843,868,2230 Norfolk Street,Hazard Park,C,24.99132843
+106,3.81234365,718,6152 N Figueroa Street,Highland Park Senior Citizen Center,N,3.81234365
+107,0.48978951,298,HILLHURST AVE. BTWN. LOS FELIZ BLVD. & VERMONT AVE.,Hillhurst Parkway,N,0.48978951
+108,18.30269337,869,415 S St Louis Street,Hollenbeck Park,C,18.30269337
+109,8.51874321,179,601 Club View Dr,Holmby Park,N,8.51874321
+110,0.20978881,215,817 W Gage Ave,Hoover-Gage Park,N,0.20978881
+111,2.47854181,719,1010 W 25th Street,Hoover Recreation Center,N,2.47854181
+112,0.56849143,720,843 S Bonnie Brae Street,Hope and Peace Park,N,0.56849143
+113,3.66007985,345,7747 Foothill Blvd,Howard Finn Park,N,3.66007985
+114,9.98868776,180,12560 Fllmore St.,Hubert H. Humphrey Memorial Park,N,9.98868776
+115,2.36047264,340,2250 E 114th Street,Imperial Courts Recreation Center,N,2.36047264
+116,0.31498485,663,2599 Beverwill Dr,Irving Schacter Park,N,0.31498485
+117,1.59485426,769,7100 White Oak Ave,Jessie Owens Mini-Park,N,1.59485426
+118,17.62510152,251,4000 S La Brea Ave.,Jim Gilliam Recreation Center,C,17.62510152
+119,3.82380895,516,7008 Desoto Ave,John Quimby Park,N,3.82380895
+120,3.16235324,339,9900 Grape St.,Jordan Downs Recreation Center,N,3.16235324
+121,1.63824349,234,3135 Drew St,Juntos Park,N,1.63824349
+122,3.46419492,558,11435 Kagel Canyon St,Kagel Canyon Park,N,3.46419492
+123,0.09184962,348,6565 Greenbush Avenue,Kittridge Mini-Park,N,0.09184962
+124,69.10878545,204,25000 Kittridge St,Knapp Ranch Park,R,69.10878545
+125,2.50723435,297,4625 W Olympic Blvd,Los Angeles High Memorial Park,N,2.50723435
+126,4.63701728,721,421 N Avenue 19,L.A. Youth Athletic Club,N,4.63701728
+127,2.41636491,268,3160 Canyon Dr,Lake Hollywood Park,N,2.41636491
+128,1.5181554,235,227 N Lake St,Lake Street Park,N,1.5181554
+129,9.81225099,182,11075 Foothill Blvd,Lake View Terrace Recreation Center,N,9.81225099
+130,19.19838054,511,21816 Lanark St,Lanark Recreation Center,C,19.19838054
+131,0.08823167,872,E. 1st Street & Chicago Street,Lani Vest-Pocket Park,N,0.08823167
+132,1.14470417,296,1820 N Las Palmas Ave,Las Palmas Senior Citizen Center,N,1.14470417
+133,1.79521991,237,1901 Waterloo St,Tommy Lasorda's Field of Dreams,N,1.79521991
+134,0.19285073,216,5308 Latham St,Latham Park,N,0.19285073
+135,23.4447436,993,8260 Mulholland Dr,Laurel Canyon Park,C,23.4447436
+136,1.01507326,376,4395 Leimert Blvd,Leimert Plaza,N,1.01507326
+137,15.76194244,338,863 S. Herbert Avenue,Leland Park,C,15.76194244
+138,3.87145743,239,4959 Lemon Grove Ave,Lemon Grove Recreation Center,N,3.87145743
+139,0.17198669,240,5523 Lexington Ave,Lexington Avenue Pocket Park,N,0.17198669
+140,24.51476829,160,5101 Libbit Ave,Libbit Park,C,24.51476829
+141,2.83140556,724,1253 Lilac Ter.,Lilac Terrace Park,N,2.83140556
+142,92.56578803,762,19585 Rinaldi St,Limekiln Canyon Park,R,92.56578803
+143,2.87720446,725,2303 Workman Street,Lincoln Heights Recreation Center,N,2.87720446
+144,42.81087247,205,3501 Valley Blvd,Lincoln Park,C,42.81087247
+145,0.22882855,377,10420 S. Vermont Ave.,Little Green Acres Park,N,0.22882855
+146,1.14379995,356,10110 Commerce Ave,Little Landers Park,N,1.14379995
+147,2.41578742,378,2717 Halldale Avenue,Loren Miller Recreation Center,N,2.41578742
+148,11.83101237,291,3207 Los Feliz Blvd,Los Feliz Golf Course,C,11.83101237
+149,6.48060678,763,7140 Louise Ave,Louise Park,N,6.48060678
+150,1.75015365,726,200 E Avenue 43,Charles F. Lummis Home,N,1.75015365
+151,2.2300543,503,23936 Highlander Ave,Mae Boyar Recreation Center,N,2.2300543
+152,4.81528091,144,4901 Marionwood Dr,Mar Vista Gardens Recreation Center,N,4.81528091
+153,18.50628241,122,11430 Woodbine Ave,Mar Vista Recreation Center,C,18.50628241
+154,0.28774922,804,15262 Marson St,Marson Park,N,0.28774922
+155,13.51531786,311,1920 Cumbre Drive,Martin J. Bogdanovich Recreation Center,C,13.51531786
+156,0.17134987,253,Intersection of Mascot Street & Pickford Street,Mascot Park,N,0.17134987
+157,17.06931083,764,10500 Mason Ave,Mason Park,C,17.06931083
+158,2.66282518,559,9540 Van Nuys Blvd.,Mid-Valley Senior Citizen Center (Site),N,2.66282518
+159,3.21706107,342,12061 Moorpark St,Moorpark Park,N,3.21706107
+160,3.40604552,379,830 W 70th Street,Mount Carmel Recreation Center,N,3.40604552
+161,29.86877092,727,2230 W 6th Street,MacArthur Park,C,29.86877092
+162,9.4989901,185,4800 S. La Brea Ave.,Norman O. Houston Park,N,9.4989901
+163,7.97765843,334,22400 Halldale Avenue,Normandale Recreation Center,N,7.97765843
+164,3.27153751,730,1550 S Normandie Avenue,Normandie Recreation Center,N,3.27153751
+165,5.36237217,267,3900 Chevy Chase Dr,North Atwater Park,N,5.36237217
+166,3.89463018,561,8756 Parthenia Pl,North Hills Community Park,N,3.89463018
+167,55.59982202,295,11430 Chandler Blvd,North Hollywood Park,R,55.59982202
+168,24.01765254,766,10058 Reseda Blvd,Northridge Recreation Center,C,24.01765254
+169,695.71086812,768,17300 Sesnon Blvd,O'Melveny Park,R,695.71086812
+170,3.63266539,127,767 California St,Oakwood Recreation Center,N,3.63266539
+171,0.22007678,117,1500 S Bundy Dr,Bundy Triangle,N,0.22007678
+172,24.09578635,514,23600 Roscoe Blvd,Orcutt Ranch Horticultural Center,C,24.09578635
+173,8.23074694,352,11101 Oro Vista Ave,Oro Vista Park,N,8.23074694
+174,6.80193634,223,10943 Herrick Ave,David M. Gonzales Recreation Center,N,6.80193634
+175,2.07463633,560,11300 Glenoaks Blvd,North East Valley Multipurpose Center,N,2.07463633
+176,113.64648036,770,12100 Tampa Ave,Palisades Park (Porter Ranch),R,113.64648036
+177,17.54244037,115,851 Alma Real Dr.,Palisades Recreation Center,C,17.54244037
+178,4.80854645,658,2950 Overland Ave,Palms Recreation Center,N,4.80854645
+179,32.17782652,294,7600 Beverly Blvd,Pan Pacific Park,C,32.17782652
+180,6.00123156,562,8600 Hazeltine Ave,Panorama City Recreation Center,N,6.00123156
+181,1.4204227,771,21444 Parthenia St,Parthenia Park,N,1.4204227
+182,25.76734734,567,10731 Laurel Canyon Blvd,Ritchie Valens Park,C,25.76734734
+183,4.27987849,874,127 South Pecan Street,Pecan Recreation Center,N,4.27987849
+184,52.70278827,124,1233 Rose Ave.,Penmar Golf Course,R,52.70278827
+185,12.00596469,125,1341 Lake St,Penmar Recreation Center,C,12.00596469
+186,4.43695686,218,525 S Olive St,Pershing Square,N,4.43695686
+187,6.29257328,659,7341 Willoughby ave,Poinsettia Recreation Center,N,6.29257328
+188,40.96190192,772,11000 Tampa Ave,Porter Ranch Park,C,40.96190192
+189,17.78056298,773,18799 Sesnon Blvd,Porter Ridge Park,C,17.78056298
+190,2.71237512,875,612 N Echandia Street,Prospect Park,N,2.71237512
+191,5.23177322,257,1240 West Blvd,Queen Anne Recreation Center,N,5.23177322
+192,1.42656117,733,4580 N Figueroa Street,Ramona Hall Community Center,N,1.42656117
+193,28.96806395,258,5001 Rodeo Road,Rancho Cienega Sports Complex,C,28.96806395
+194,140.13672555,660,10460 Pico Blvd,Rancho Park Golf Course,R,140.13672555
+195,1.27656078,341,510 Leland Avenue,Rena Park,N,1.27656078
+196,29.67840228,517,18411 Victory Blvd,Reseda Park,C,29.67840228
+197,1.0300388,259,2803 Reynier Avenue,Reynier Park,N,1.0300388
+198,0.32141074,380,2700 S Budlong Avenue,Elinor and Don Richardson Family Park,N,0.32141074
+199,1.67678104,281,4900 Beverly Blvd.,Robert L. Burns Park,N,1.67678104
+200,1.23557131,661,1641 Pruess Road,Robertson Recreation Center,N,1.23557131
+201,14.41415551,557,12467 Osborne St,Roger W. Jessup Park,C,14.41415551
+202,55.56478002,293,2650 N Vermont Ave,Roosevelt Golf Course,R,55.56478002
+203,1.48650564,876,456 S Mathews Street,Roosevelt High School Pool,N,1.48650564
+204,44.34813641,518,24116 De Quincy Ct,Roscoe-Valley Circle Park,C,44.34813641
+205,2.26431718,1004,4530 Mercury Ave.,Rose Hill Recreation Center,N,2.26431718
+206,10.5481857,190,840 W. 149th St.,Rosecrans Recreation Center,C,10.5481857
+207,11.3420269,600,1501 E 41 St,Ross Snyder Recreation Center,C,11.3420269
+208,5.93070647,191,20200 Runnymede St.,Runnymede Park,N,5.93070647
+209,136.76443353,284,2000 N Fuller Ave,Runyon Canyon Park,R,136.76443353
+210,44.69131991,105,SW of Sullivan Fire Rd; no other address or HSENO available,Rustic Canyon Park,C,44.69131991
+211,8.94995329,107,601 Latimer Rd,Rustic Canyon Recreation Center,N,8.94995329
+212,8.57621581,382,8701 St. Andrews Pl.,Saint Andrews Recreation Center,N,8.57621581
+213,0.89801271,735,20 S St. James Park,Saint James Park,N,0.89801271
+214,3.50665301,329,700 S Beacon Street,San Pedro Plaza Park,N,3.50665301
+215,31.45134196,100,17500 Mulholland Dr,San Vicente Mountain Park,C,31.45134196
+216,337.84219219,102,1100 Palisades Dr,Santa Ynez Canyon Park,R,337.84219219
+217,0.22382598,244,6567 Selma Ave,Selma Park,N,0.22382598
+218,3.46636941,261,3250 San Marino Street,Seoul International Park,N,3.46636941
+219,4.93963121,163,17550 Victory Blvd,Sepulveda Basin Dog Park,N,4.93963121
+220,10.58718448,192,17017 Burbank Blvd,Sepulveda Recreation Center,C,10.58718448
+221,36.54078851,519,4800 Serrania Ave,Serrania Avenue Park,C,36.54078851
+222,12.03447881,520,22633 Vanowen St,Shadow Ranch Park,C,12.03447881
+223,5.45388787,301,3191 W 4th St,Shatto Recreation Center,N,5.45388787
+224,1.11524952,246,1850 W Silverlake Dr,Silverlake Dog Park,N,1.11524952
+225,3.62840692,221,5306 S Compton Ave,James Slauson Recreation Center,N,3.62840692
+226,0.74118112,381,7020 S Figueroa Street,South Los Angeles Sports Activity Center,N,0.74118112
+227,18.25018545,601,345 E 51st St,South Park Recreation Center,C,18.25018545
+228,0.17229024,263,2301 W. 24th Street,South Seas House,N,0.17229024
+229,2.61704055,877,716 N State Street,State Street Recreation Center,N,2.61704055
+230,28.30875438,563,13877 Glenoaks Blvd,Stetson Ranch Park,C,28.30875438
+231,13.70909321,358,9901 Dronfield St,Stonehurst Recreation Center,C,13.70909321
+232,8.65607089,121,1835 Stoner Ave,Stoner Recreation Center,N,8.65607089
+233,29.05620728,776,10870 Topanga Canyon Blvd,Stoney Point Park,C,29.05620728
+234,12.73530335,224,8041 Whitsett Ave,Strathern Park - North,C,12.73530335
+235,0.42687784,343,12505 Moorpark Street,Studio City Mini-Park,N,0.42687784
+236,8.46400012,194,12505 Moorpark St,Studio City Recreation Center,N,8.46400012
+237,17.26066808,813,8133 Vineland Ave,Sun Valley Park,C,17.26066808
+238,14.3219796,363,8651 Foothill Blvd,Sunland Park,C,14.3219796
+239,13.61600019,736,4702 N Figueroa Street,Sycamore Grove Park,C,13.61600019
+240,19.77623242,564,13109 Borden Ave,Sylmar Park,C,19.77623242
+241,5.57224821,522,5655 Vanalden Ave,Tarzana Recreation Center,N,5.57224821
+242,2.45490982,523,23367 Ingomar St,Taxco Trails Park,N,2.45490982
+243,37.58957701,111,15900 Pacific Coast Hwy,Temescal Canyon Park,C,37.58957701
+244,0.28702509,148,415 Culver Blvd,Titmouse Park,N,0.28702509
+245,2.73926359,737,1725 Toberman Street,Toberman Recreation Center,N,2.73926359
+246,1.61128071,566,9122 Tobias Ave,Tobias Avenue Park,N,1.61128071
+247,0.14948861,150,Trask Avenue and Waterview St,Trask Triangle Park,N,0.14948861
+248,0.09096021,135,652 Marr St,Triangle Park,N,0.09096021
+249,2.06298466,604,2415 Trinity St,Trinity Recreation Center,N,2.06298466
+250,0.06295977,738,8th Street & Valencia Street,Valencia Triangle,N,0.06295977
+251,77.64113661,360,12240 Archwood Street,Valley Plaza Park,R,77.64113661
+252,7.81360616,375,5720 2nd Avenue,Van Ness Recreation Center,N,7.81360616
+253,65.17562787,357,14201 Huston St,Van Nuys - Sherman Oaks Park,R,65.17562787
+254,1.3779326,814,6514 Sylmar Ave,Van Nuys Multipurpose Center,N,1.3779326
+255,3.89422407,815,14301 Vanowen Ave,Van Nuys Recreation Center,N,3.89422407
+256,10.88540621,778,8956 Vanalden Ave,Vanalden Park,C,10.88540621
+257,160.75253296,138,2300 Ocean Front Wk,Venice Beach,R,160.75253296
+258,1.47271284,141,2490 Walgrove Ave,Venice High School Pool,N,1.47271284
+259,0.7531548,364,10654 Irma Ave,Verdugo Hills Pool,N,0.7531548
+260,3.0086956,603,1248 W 47th St,Vermont Square,N,3.0086956
+261,6.48155308,350,11117 W Victory Blvd,Victory-Vineland Recreation Center,N,6.48155308
+262,10.06960343,195,11500 Viking Ave,Viking Park,C,10.06960343
+263,0.92608651,264,2942 Vineyard Avenue,Vineyard Recreation Center,N,0.92608651
+264,0.51638822,241,464 N Madison Ave,Madison West Park,N,0.51638822
+265,0.84108473,152,8150 Vista Del Mar,Vista Del Mar Park,N,0.84108473
+266,15.30628426,524,5830 N. Topanga Canyon Blvd,Warner Ranch Park,C,15.30628426
+267,47.58094658,288,1824 N Curson Ave,Wattles Garden Park,C,47.58094658
+268,1.29669046,327,1657 E. Century Blvd.,Watts Senior Citizen Center,N,1.29669046
+269,10.21254867,196,10844 Acama St,Weddington Park North,C,10.21254867
+270,14.48380305,287,10800 Valley Heart Dr,Weddington Park South,C,14.48380305
+271,15.05183452,525,6900 Valley Circle Blvd,West Hills Sport Center,C,15.05183452
+272,8.08074689,526,6731 Wilbur Ave.,West Valley Park,N,8.08074689
+273,23.57859354,151,7000 W Manchester Ave,Westchester Recreation Center,C,23.57859354
+274,2.24358836,132,1234 Pacific Ave,Westminster Park,N,2.24358836
+275,0.87007152,133,1234 Pacific Ave,Westminster Dog Park,N,0.87007152
+276,26.69566228,666,1350 S Sepulveda Blvd,Westwood Park,C,26.69566228
+277,1.37760044,285,5801 1/2 Whitnall Hwy,Whitnall Dog Park,N,1.37760044
+278,125.13442464,197,S of Maxwell Fire Rd,Wilacre Park,R,125.13442464
+279,7.28812133,779,12001 Wibur Ave,Wilbur-Tampa Park,N,7.28812133
+280,0.83339013,1002,8341 De Longpre Ave.,William S. Hart Park,N,0.83339013
+281,7.3064255,324,325 Neptune Ave.,Wilmington Recreation Center,N,7.3064255
+282,0.48369768,323,"Avalon Place & ""I"" Street",Wilmington Town Square,N,0.48369768
+283,181.20376281,299,4730 Crystal Springs Dr,Wilson Golf Course,R,181.20376281
+284,15.94776638,198,8401 Winnetka Ave,Winnetka Recreation Center,C,15.94776638
+285,0.66796957,667,3409 Vinton Ave,Woodbine Park,N,0.66796957
+286,4.70724142,199,11240 Moorpark St,Woodbridge Park,N,4.70724142
+287,18.75959737,527,5858 Shoup Ave,Woodland Hills Recreation Center,C,18.75959737
+288,238.88784079,809,6331 Woodley Ave,Woodley Lakes Golf Course,R,238.88784079
+289,10.00311971,200,1840 Yosemite Drive,Yosemite Recreation Center,C,10.00311971
+290,0.9716847,273,6671 W Yucca St,Yucca Community Center,N,0.9716847
+291,9.73628318,201,11690 Zelzah Ave,Zelzah Park,N,9.73628318
+292,0.13172939,208,5207 S Broadway,Broadway Park,N,0.13172939
+293,3.116622,233,1122 Cole Ave,Hollywood Recreation Center,N,3.116622
+294,0.32394081,227,1644-48 Beverly Blvd,Beverly Park,N,0.32394081
+295,0.21738554,236,3305 Larissa Dr,Larissa Parkway,N,0.21738554
+296,0.32174466,238,3022 Del Monte Dr.,Laurel and Hardy Park,N,0.32174466
+297,0.43145327,242,1571 Rockwood St,Rockwood Community Park,N,0.43145327
+298,0.3443659,243,5707 Lexington Ave,Seily Rodriguez Park,N,0.3443659
+299,3.93497998,245,1850 W Silverlake Blvd,Silverlake Recreation Center,N,3.93497998
+300,18.33573701,229,1800 Riverside Dr.,Elysian Park Expansion,C,18.33573701
+301,0.56091512,248,Occidental Blvd,Occidental Parkway,N,0.56091512
+302,12.48760028,510,Wooded Vista & Twisted Oak Dr,Knapp Ranch Park West,C,12.48760028
+303,16.96064883,505,20856 Mulholland Dr,Caplow Property,C,16.96064883
+304,40.50806384,509,4720 Corbin Ave,Corbin Canyon Park,C,40.50806384
+305,0.10446148,513,5250 N. Mecca Ave,Mecca Avenue Park,N,0.10446148
+306,14.58842132,515,19900 Mulholland Dr,Pilson Property,C,14.58842132
+307,21.35216536,521,S. of Owen Brown Road,Steers Property,C,21.35216536
+308,0.78864455,507,8120 Vanalden Ave,Cleveland High School Pool,N,0.78864455
+309,12.50909174,753,20500 Sesnon Blvd,Holleigh Bernson Memorial Park,C,12.50909174
+310,0.08313287,774,18501 Rinaldi St,Rinaldi Park,N,0.08313287
+311,10.89660145,777,15800 Rinaldi St,Van Norman Lakes Reservoir,C,10.89660145
+312,2.90303784,202,9301 Valley Circle Blvd.,Chatsworth Oaks Park,N,2.90303784
+313,22.21382075,752,17301 Sesnon Blvd,Bee Canyon Park,C,22.21382075
+314,8.115835,165,5790 Compton Ave,Augustus F. Hawkins Natural Park,N,8.115835
+315,0.54130545,219,5350 Alba St,Pueblo del Rio Recreation Center,N,0.54130545
+316,0.14522547,602,4521 S Central Ave,Vernon Branch Library Pocket Park,N,0.14522547
+317,131.1977405,101,2660 Westridge Rd,Mandeville Canyon Park,R,131.1977405
+318,23.28643538,103,NE of Sullivan Fire Rd (per Alpha; no other address or HSENO),Sullivan Canyon Park,C,23.28643538
+319,25.75591813,104,East end of Oracle Place; no other street address or HSENO available,Rivas Canyon Park,C,25.75591813
+320,0.46358084,112,Via Las Palmas & Via La Costa,Temescal Ridge Trailhead,N,0.46358084
+321,24.38543131,114,15400 Pacific Coast Hwy,Palisades Park (Pacific Palisades),C,24.38543131
+322,1.556321,118,333 S Barrington Ave,Barrington Dog Park,N,1.556321
+323,14.32617065,123,3324 S Centinela Ave,Venice Reservoir Site,C,14.32617065
+324,149.53595831,225,8751-9461 Valley Circle Blvd,Chatsworth Reservoir Site,R,149.53595831
+325,82.3419685,999,Balboa Blvd. across from Balboa Golf Course,Balboa Sports Center,R,82.3419685
+326,1538.59641923,750,17017 Burbank Blvd,Sepulveda Basin Recreation Area,R,1538.59641923
+327,109.66407201,808,6350 Woodley Ave,Woodley Avenue Park,R,109.66407201
+328,14.71660197,178,Burbank Blvd. across from Encino Golf Course,Hjelte Sports Center,C,14.71660197
+329,1.54823408,998,7174 N. Hayvenhurst Ave,Encino Park and Ride,N,1.54823408
+330,24.09100738,159,16633 Magnolia Blvd,Sepulveda Garden Center,C,24.09100738
+331,169.24247559,810,6200 Balboa Blvd,Anthony C. Beilenson Park,R,169.24247559
+332,18.22357032,761,13100 Balboa Blvd,Granada Hills Youth Recreation Center,C,18.22357032
+333,50.11097445,996,W of Porter Ranch Dr. S of Sesnon Blvd.,Porter Ranch-Sesnon Property,R,50.11097445
+334,25.88103696,765,19900 Sesnon Blvd,Moonshine Canyon Park,C,25.88103696
+335,51.9927585,754,Browns Canyon Rd,Browns Creek Park,R,51.9927585
+336,13.60455816,767,Between Oso Canyon and Limekiln Canyon Roads,Old Mission Trail,C,13.60455816
+337,45.15844896,995,"near Sheldon, Arleta and Hollywood Freeway",Sheldon-Arleta Park,C,45.15844896
+338,0.25881891,992,4924 Paso Robles Ave,Encino Women's Club,N,0.25881891
+339,3.45926533,657,601 Club View Dr,Armand Hammer Golf Course,N,3.45926533
+340,182.61241587,206,2551 Motor Ave,Cheviot Hills Park,R,182.61241587
+341,0.97483455,651,6313 W San Vicente Blvd,Carthay Circle Park,N,0.97483455
+342,3.93712161,994,8260 Mulholland Dr,Laurel Canyon Dog Park,N,3.93712161
+343,8.22261422,664,Coldwater Canyon between Oxnard St and Chandler Blvd,Tujunga Greenbelt,N,8.22261422
+344,0.04332494,656,Ladera Dr at Sunset Blvd,Gateway Triangle,N,0.04332494
+345,79.39854979,654,14890 Valley Vista Blvd,Deervale-Stone Canyon Park,R,79.39854979
+346,0.11270542,662,7811 Rosewood Ave,Rosewood Gardens,N,0.11270542
+347,0.28696473,665,1246 Glendon Ave,Westwood Gardens Park,N,0.28696473
+348,168.01010007,807,16821 Burbank Blvd,Encino Golf Course,R,168.01010007
+349,0.12441184,131,215-217 San Juan Ave,San Juan Garage,N,0.12441184
+350,0.88550768,134,501 S Venice Blvd,Venice of America Centennial Park,N,0.88550768
+351,0.03368303,129,Marco Place near intersection with Shell Ave,Marco Triangle,N,0.03368303
+352,0.02746075,128,Between Marco Court and Superba Court near Venice Blvd,Marco Place Parkway,N,0.02746075
+353,0.0162272,130,1646 S Crescent Pl,Crescent Place Triangle,N,0.0162272
+354,0.02753488,146,Nowita Place in between Oakwood and Sheel Ct,Nowita Triangle,N,0.02753488
+355,0.02754952,154,AMOROSO PL. BTWN. OAKWOOD/SHELL AVES.,Amoroso Triangle,N,0.02754952
+356,6.47063493,351,500 Westpark Dr,Valley Village Park,N,6.47063493
+357,228.31347553,153,8255 Vista del Mar,Isidore B. Dockweiler State Beach,R,228.31347553
+358,0.20766271,156,Mulholland Dr between Park Lane Circle Dr and Elvido Dr on N side,Mulholland View Site  No. 16,N,0.20766271
+359,102.90302833,116,17600 Pacific Coast Hwy,Will Rogers State Beach,R,102.90302833
+360,8.71036187,282,Bob Hope St and Warner Blvd,Buena Vista Park,N,8.71036187
+361,10.51848042,286,5801 1/2 Whitnall Hwy.,Whitnall Highway Park,C,10.51848042
+362,0.93589278,207,4025 Avalon Blvd,Avalon-San Pedro Park,N,0.93589278
+363,4281.73369926,161,LOS FELIZ BLVD./134 FWY./5 FWY.,Griffith Park,R,4281.73369926
+364,2.58244124,289,VERMONT AVE. BTWN. LOS FELIZ BLVD. & GRIFFITH PARK,Vermont Parkway,N,2.58244124
+365,16.99917167,276,Rancho Ave & Riverside Dr,Bette Davis Picnic Area,C,16.99917167
+366,3.79706931,270,5202 Zoo Dr,L.A. Live Steamers,N,3.79706931
+367,67.2894818,269,500 Riverside Dr,L. A. Equestrian Center,R,67.2894818
+368,12.73325068,275,Reese Pl. & Valley Heart Dr.,Griffith Park Pollywog Area,C,12.73325068
+369,5.99746611,266,4730 Crystal Springs Dr,Griffith Park Boys Camp,N,5.99746611
+370,10.23262897,271,3200 Canyon Dr,Hollywoodland Girl's Camp,C,10.23262897
+371,74.40611484,274,3200 Canyon Dr,Bronson Canyon,R,74.40611484
+372,138.7731292,272,4730 Crystal Springs Dr,Harding Golf Course,R,138.7731292
+373,9.37681412,193,12541 Saticoy St,"Strathern Park, West",N,9.37681412
+374,4.97799278,997,4989 N Sepulveda Blvd,Sherman Oaks Castle Park,N,4.97799278
+375,1.00523315,349,Near Crestline Dr; at southern end of the McGroarty Cultural Art Center,Pasko Park,N,1.00523315
+376,47.37456673,362,Big Tujunga Canyon Rd North of Mt. Gleas,Tujunga Infiltration Galleries,C,47.37456673
+377,3.05609483,353,6226 Laurel Grove Avenue,Laurel Grove Park,N,3.05609483
+378,27.58387896,860,N. of Ventura Fwy S. of Valle Vista,Eagle Rock Hillside Park,C,27.58387896
+379,2.17385852,861,701-717 Eagle Rock View Drive,Eagle Rock Historical Landmark,N,2.17385852
+380,4.49260965,873,911 N. Museum Drive,Moon Canyon Park,N,4.49260965
+381,1.08372163,254,9070 Venice Blvd.,Media Park,N,1.08372163
+382,0.62679194,262,2250 W. Jefferson Blvd,Leslie N. Shaw Park,N,0.62679194
+383,0.74833901,260,4526 W. Pico Blvd,Eleanor Green Roberts Aquatic Center,N,0.74833901
+384,193.9719356,556,Located in Hansen Dam Recreation Area.,Hansen Dam Golf Course,R,193.9719356
+385,0.80116703,864,125 Paseo de la Plaza,Los Angeles Plaza Park,N,0.80116703
+386,0.27377613,871,Lanark Street & Shelby Place,Lanark/Shelby Mini-Park,N,0.27377613
+387,2.64463291,850,511 W Avenue 46,Carlin G. Smith Recreation Center,N,2.64463291
+388,0.31823177,859,2035 Colorado Blvd,Eagle Rock City Hall,N,0.31823177
+389,20.67531597,862,1100 Eagle Vista Drive,Eagle Rock Recreation Center,C,20.67531597
+390,1.46038706,880,Scholl Canyon Rd. near the 134 and Figueroa St.,Richard Alatorre Park,N,1.46038706
+391,0.53766433,308,1052 Banning Blvd,Drum Barracks Civil War Museum,N,0.53766433
+392,1.87212569,878,2765 Wabash Avenue,Wabash Recreation Center,N,1.87212569
+393,2.26393695,318,W 21st & Meyler Streets,Alma Park,N,2.26393695
+394,0.23363681,853,370 S Clarence Street,Aliso-Pico Recreation Center,N,0.23363681
+395,2.2084693,854,5566 Via Marisol,Hermon Dog Park,N,2.2084693
+396,74.52023367,322,560 N Western Avenue,Peck Park,R,74.52023367
+397,6.49467401,187,1016 S Fresno Street,Msgr. Ramon D. Garcia Recreation Center,N,6.49467401
+398,5.58841557,175,6240 Meridian Street,Garvanza Park,N,5.58841557
+399,8.4752691,169,933 S. Mott Street,Boyle Heights Sports Center,N,8.4752691
+400,5.69779638,361,6150 Atoll Avenue,Valley Glen Community Park,N,5.69779638
+401,30.62348525,359,7000 Whitsett Avenue,Whitsett Sports Field,C,30.62348525
+402,587.9734352,355,9999 Edmore Place,Verdugo Mountain Park,R,587.9734352
+403,17.07072318,354,"9401 Villa Cabrini Drive, West",Villa Cabrini Park,C,17.07072318
+404,40.07399335,321,3800 Stephen M. White Drive,Cabrillo Beach,C,40.07399335
+405,39.12964891,331,807 S Paseo del Mar,Point Fermin Park,C,39.12964891
+406,0.72188439,732,1827 S Hoover Street,Pico Union Park,N,0.72188439
+407,5.41234209,717,6150 Piedmont Avenue,Highland Park Recreation Center,N,5.41234209
+408,39.39160138,734,1900 N San Fernando Road,Rio de Los Angeles State Park,C,39.39160138
+409,8.91134709,729,243 E Avenue 33,Mount Olympus Park,N,8.91134709
+410,0.56202557,723,236 S Avenue 57,La Tierra de la Culebra,N,0.56202557
+411,0.96345892,731,2332 W 4th Street,Parkview Photo Center,N,0.96345892
+412,0.17362182,739,Woodside Drive & Marmion Way,Woodside Triangle,N,0.17362182
+413,2.07147729,707,1419 Colton Street,Echo Park Deep Pool,N,2.07147729
+414,64.78227157,336,1235 N Figueroa Place,Harbor Park Golf Course,R,64.78227157
+415,290.87072064,337,25820 Vermont Avenue,Ken Malloy Harbor Regional Park,R,290.87072064
+416,70.4438066,316,3601 S Gaffey Street,Angels Gate Park,R,70.4438066
+417,0.36639224,722,Lacy Street & Avenue 26,Lacy Street Neighborhood Park,N,0.36639224
+418,1.04341145,705,1775 N Spring St,Downey Pool,N,1.04341145
+419,4.16432888,716,3800 Homer St.,Heritage Square,N,4.16432888
+420,0.73758287,1006,2500 Griffin Avenue,Lincoln Heights Youth Center,N,0.73758287
+421,16.89427137,183,7570 McGroarty Terrace,McGroarty Cultural Art Center,C,16.89427137
+422,1.20772285,265,3085 Clyde Avenue,Westside Neighborhood Park,N,1.20772285
+423,22.53409267,728,4545 Homer Street,Montecito Heights Recreation Center,C,22.53409267
+424,25.83228861,189,3606 Boundary Ave.,Rose Hill Park,C,25.83228861
+425,0.88446975,304,550 Harbor Blvd,John S. Gibson Jr. Park,N,0.88446975
+426,8.32651108,365,3934 S Western Avenue,Martin Luther King Jr. Park,N,8.32651108
+427,7.44192893,1003,Airdrome St. between Stearns Dr. and Hayworth Ave.,Los Angeles Center for Enriched Studies (LACES),N,7.44192893
+428,3.24151408,312,825 Capitol Dr.,Harbor Highlands Park,N,3.24151408
+429,4.97420131,314,430 N. Bandini St.,Bandini Canyon Park,N,4.97420131
+430,0.12643795,300,4103 W. Washington Blvd.,Washington Irving Pocket Park,N,0.12643795
+431,0.39949857,328,351 N. Gaffey St.,San Pedro Welcome Park,N,0.39949857
+432,2.85302943,332,601 W. 24th St.,Harbor View Memorial Park,N,2.85302943
+433,0.2066982,370,8742 & 8750 S. Vermont Ave.,Community Build Youth Center Expansion,N,0.2066982
+434,2.15714749,374,University Ave. between 30th St. & Hoover St.,Hoover Pedestrian Mall,N,2.15714749
+435,1449.53936346,555,11770 Foothill Blvd.,Hansen Dam Recreation Area,R,1449.53936346
+436,112.33345525,1000,In Hansen Dam Recreation Area,Hansen Dam Quarry Lake,R,112.33345525
+437,2.61575243,333,1670 Palos Verdes Dr. North,Pacific Region Headquarters,N,2.61575243
+438,18.45972679,1001,3133 Decker Road,Decker Canyon Camp,C,18.45972679
+439,13.36028418,702,934 N. San Pasqual Ave. (in between Comet St. and Arroyo Dr.),San Pasqual Park,C,13.36028418
+440,0.85046293,307,918 Sanford Ave.,East Wilmington Greenbelt Community Center,N,0.85046293
+441,3.95581165,310,1148 N. Watson Ave.,Wilmington Veterans Park,N,3.95581165
+442,22.42866844,855,5566 Via Marisol,Hermon Park,C,22.42866844
+443,85.97220078,164,5568 Via Marisol,Arroyo Seco Park,R,85.97220078
+444,9.7173258,181,2830 W. 6th St.,Lafayette Park,N,9.7173258
+445,17.79632547,305,501 Westmont Dr.,"Gaffey Street ""Field of Dreams""",C,17.79632547
+446,0.5044047,302,1450 N. Avalon Blvd.,Banning High School Pool,N,0.5044047
+447,4.73480221,335,11251 Compton Ave.,William Nickerson Gardens Recreation Center,N,4.73480221
+448,6.64535249,210,3980 S. Menlo Ave.,EXPO Center,N,6.64535249
+449,92.43634001,856,4371 Multnomah Street,Ascot Hills Park,R,92.43634001
+450,2.56003108,881,2830 Lancaster Avenue,Henry Alvarez Memorial Park,N,2.56003108
+451,2.09913453,188,2830 Lancaster Avenue,Ramona Gardens Park,N,2.09913453
+452,6.40045762,882,2830 Lancaster Avenue,Ramona Gardens Recreation Center,N,6.40045762
+453,318.6194734,704,4235 Monterey Road,Ernest E. Debs Regional Park,R,318.6194734
+454,2.47869141,1005,Berth 84 - Foot of 6th Street at Harbor Blvd.,Los Angeles Maritime Museum,N,2.47869141
+455,10.38058139,499,Griffith Park Dr. near Zoo Dr.,Travel Town Museum,C,10.38058139
+456,35.49389336,113,15125 Pacific Coast Hwy,Potrero Canyon Park,C,35.49389336
+457,6.95164183,812,7965 Whitsett Ave,Jaime Beth Slavin Park,N,6.95164183
+458,2.25891136,256,2413 2nd Ave.,Benny H. Potter West Adams Avenues Memorial Park,N,2.25891136
+459,0.65482105,1007,322 S. Lucas Ave.,Miguel Contreras Learning Center Pool,N,0.65482105
+460,1.29342278,565,15721 Cobalt St,Telfair Park,N,1.29342278
+461,2.02854039,1008,845 N. Alameda St.,El Pueblo de Los Angeles Historic Monument,N,2.02854039
+462,185.56601838,1009,6335 Woodley Avenue,Sepulveda Basin Wildlife Reserve,R,185.56601838
+463,0.20915162,1010,6116 11th Avenue,11th Avenue Park,N,0.20915162
+464,0.32588932,1012,2400 S. Flower Street,Orthopedic Hospital Universal Access Playground,N,0.32588932
+465,0.15495857,1011,2909 Francis Avenue,Francis Avenue Community Garden,N,0.15495857
+466,544.7102735,162,929 Academy Road,Elysian Park,R,544.7102735
+467,0.13919573,1013,7960 Bellaire Ave,Bellaire Avenue Park,N,0.13919573
+468,0.36552489,1015,5001 Balboa Blvd,Old Encino Fire Station 83 Property,N,0.36552489
+469,0.29491732,1016,303 Patton St,Old Echo Park Boys & Girls Club,N,0.29491732
+470,0.14488098,1017,3503 Via Dolce,Via Dolce Park,N,0.14488098
+471,1.17751731,1018,11349 El Dorado Ave,El Dorado Avenue Park,N,1.17751731
+472,0.79622789,1019,428 S. Spring St,Spring Street Park,N,0.79622789
+473,0.17801921,1020,3320 Pepper Ave,Old Cypress Park Library,N,0.17801921
+474,1.87869942,1021,1301 W. 1st Street,Vista Hermosa Soccer Field,N,1.87869942
+475,95.00362585,326,1600 S Paseo del Mar,White Point Park Nature Preserve,R,95.00362585
+476,9.00598576,1022,5413 South Avalon Blvd,South L.A. Wetlands Park,N,9.00598576
+477,73.60605127,1023,6801 La Tuna Canyon Road,La Tuna Canyon Park,R,73.60605127
+478,52.37738824,346,7021 Arama Ave,Haines Canyon Park,C,52.37738824
+479,4.48257094,1014,2543 Armstrong Ave,Silverlake Meadows,N,4.48257094
